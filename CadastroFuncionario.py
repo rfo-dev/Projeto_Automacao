@@ -82,7 +82,7 @@ with fitz.open("0968 - FICHA DE REGISTRO.pdf") as pdf:
     #print (("Nome: " + lista['ALINE CRISTINA DE CAMARGO']['Nome'] + "\n" + "Data de Nascimento: " + lista['ALINE CRISTINA DE CAMARGO']['Data_Nascimento'])+ "\n" + "Nome do Pai: " + (lista['ALINE CRISTINA DE CAMARGO']['Filiacao']))
     #print(lista)    
     
-    workbook = xlsxwriter.Workbook('CadFunc.xlsx') 
+    workbook = xlsxwriter.Workbook(r"C:\Users\rafael.oliveira\Documents\Projeto_Automacao\CadFunc.xlsx") 
     worksheet = workbook.add_worksheet()
 
     row = 0
