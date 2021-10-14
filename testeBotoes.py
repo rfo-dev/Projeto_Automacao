@@ -3,11 +3,11 @@ import PySimpleGUI as sg
 class TelaPython:
     def __init__(self):
         layout = [
-            [sg.Text('Nome'), sg.Input()],
-            [sg.Text('Idade'), sg.Input()],
+            [sg.Text('Caminho do arquivo PDF'), sg.Input()],
+            [sg.Text('Caminho do arquivo de saida XLSX'), sg.Input()],
             [sg.Button('Enviar dados')]
         ]
-        janela = sg.Window("Dados do usuário").layout(layout)
+        janela = sg.Window("Dados dos Arquivos").layout(layout)
         self.button, self.values = janela.Read()
 
     def Iniciar(self):
@@ -19,7 +19,9 @@ class TelaPython:
         print(self.word)    
     
 tela = TelaPython()
-tela.Iniciar()
-print(tela.values)
+#tela.Iniciar()
+print(tela.values[0])
+print(tela.values[1])
 
 #tela.imprimir("não sei")
+
