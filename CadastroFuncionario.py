@@ -1,9 +1,25 @@
 
 import xlsxwriter 
 import fitz
+import PySimpleGUI as sg
 
-# faz a leitura
-with fitz.open("0968 - FICHA DE REGISTRO.pdf") as pdf:
+
+class TelaPython:
+    def __init__(self):
+        layout = [
+            [sg.Text('Caminho do arquivo PDF:', size=(25,0)), sg.Input(size=(30,0),key='pdf')],
+            [sg.Text('Exemplo: C:\caminhodoarquivo\\arquivo.pdf ', size=(50,0))],
+            [sg.Text('Caminho do arquivo de saida XLSX:', size=(25,0)), sg.Input(size=(30,0),key='xlsx')],
+            [sg.Text('Exemplo: C:\caminhodoarquivo\\arquivo.xlsx ', size=(50,0))],
+            [sg.Button('Enviar dados')],
+            #[sg.Output(size=(60,20))]
+        ]
+        self.janela = sg.Window("Dados dos Arquivos").layout(layout)
+        self.button, self.values = self.janela.Read()
+
+arquivos = TelaPython()        
+
+with fitz.open(arquivos.values['pdf']) as pdf:
     texto = ""
     posNome = ""
     posPai = ""
@@ -82,7 +98,7 @@ with fitz.open("0968 - FICHA DE REGISTRO.pdf") as pdf:
     #print (("Nome: " + lista['ALINE CRISTINA DE CAMARGO']['Nome'] + "\n" + "Data de Nascimento: " + lista['ALINE CRISTINA DE CAMARGO']['Data_Nascimento'])+ "\n" + "Nome do Pai: " + (lista['ALINE CRISTINA DE CAMARGO']['Filiacao']))
     #print(lista)    
     
-    workbook = xlsxwriter.Workbook(r"C:\Users\rafael.oliveira\Documents\Projeto_Automacao\CadFunc.xlsx") 
+    workbook = xlsxwriter.Workbook(arquivos.values['xlsx']) 
     worksheet = workbook.add_worksheet()
 
     row = 0
