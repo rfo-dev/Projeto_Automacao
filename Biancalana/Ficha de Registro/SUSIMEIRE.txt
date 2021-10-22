@@ -1,0 +1,518 @@
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                    Empresa: 0159 - SUSIMEIRE BARBOZA DA SILVA - ME
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000001 
+
+          Nome:Maria Barbara Miranda da Silva 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   02/05/2013          Cargo:0120  Auxiliar de Producao 
+         Salário:1.410,09                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0002
+         Dependentes S.F.:                   H/Mês:  19,80                    Sindicato0028  SINDICATO DAS COSTUREIRAS DE SAO PAULO  
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalNÃO CONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroJd Rincao
+         Endereço: EStrada de Taipas, 586 
+         Município:SAO PAULO                                   UF: SP      CEP:02991-000         DDD:        Fone: 
+         Dt.Nasc.07/12/1983    Local:2915  CENTRAL                               Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU INCOMPLETO                            Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: BRANCA                Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R42.196.617-8        Data Emissão:   25/10/2010      CPF:326.462.948/83                CTPS: 080145    00277   SP 
+          PIS201.60748.72.5                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título215372810167
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 10-ADMISSÃO DE EMPREGADO NO 1ºEMPREGO         Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 02/05/2013                                        Conta FGTS:                           Tipo de Admissão: 9A 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:01
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro : 009464 02 55 1984 1 00007 037 0006970 11  Registro Livro :0129                  Registro Folha :AB007503-0 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0001 
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                    Empresa: 0159 - SUSIMEIRE BARBOZA DA SILVA - ME
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Milton Miranda da Silva                            Masculino Pai                Não Dependente IRRF 
+        Edineuza Cordeiro de Jesus Silva                   Feminino  Mãe                Não Dependente IRRF 
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        02/05/2013 a 01/05/2014       20                18/12/2014 a 06/01/2015                         
+        02/05/2013 a 01/05/2014       10                01/06/2015 a 10/06/2015                         
+        02/05/2014 a 01/05/2015       20                21/12/2015 a 09/01/2016                         
+
+        02/05/2014 a 01/05/2015       10                01/06/2016 a 10/06/2016                         
+        02/05/2015 a 01/05/2016       20                21/12/2016 a 09/01/2017                         
+        02/05/2015 a 01/05/2016       10                                                                
+        02/05/2016 a 01/05/2017       10                04/06/2018 a 13/06/2018                         
+        02/05/2016 a 01/05/2017       20                                                                
+        02/05/2017 a 01/05/2018       25                20/12/2018 a 13/01/2019                         
+        02/05/2017 a 01/05/2018       05                                                                
+        02/05/2018 a 01/05/2019       25                19/12/2019 a 12/01/2020                         
+        02/05/2018 a 01/05/2019       05                                                                
+        02/05/2019 a 01/05/2020       30                28/12/2020 a 26/01/2021                         
+        02/05/2020 a 01/05/2021                                                                         
+        02/05/2021 a 01/05/2022                                                                         
+        02/05/2022 a 01/05/2023                                                                         
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0002 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                    Empresa: 0159 - SUSIMEIRE BARBOZA DA SILVA - ME
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0003 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                    Empresa: 0159 - SUSIMEIRE BARBOZA DA SILVA - ME
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000002 
+
+          Nome:Susimeire Barbosa Da Silva 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: PRO-LABORE                  Admissão:   02/05/2013          Cargo:0006  Diretor 
+         Salário:2.200,00                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0002
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0028  SINDICATO DAS COSTUREIRAS DE SAO PAULO  
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.Sindical:
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroMooca
+         Endereço: Rua da Mooca - de 2150 a 2558 - lado par, 2052, Apto 03 
+         Município:SAO PAULO                                   UF: SP      CEP:03104-002         DDD:        Fone: 
+         Dt.Nasc.03/04/1964    Local:4820  SAO PAULO                             Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: SUPERIOR COMPLETO                             Est.CiviOUTROS
+         Defic.Não                 Raça: BRANCA                Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R161847298           Data Emissão:   30/11/2005      CPF:057.992.388/69                CTPS: 83382     00005   SP 
+          PIS120.93633.96.7                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título1529693390108
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 10-ADMISSÃO DE EMPREGADO NO 1ºEMPREGO         Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS:                                                   Conta FGTS:                           Tipo de Admissão: 1A 
+          Ocorrência:                                                Categoria:  11-DIRETOR NÃO EMPREGADO SEM FGTS  
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:01
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0004 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                    Empresa: 0159 - SUSIMEIRE BARBOZA DA SILVA - ME
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+
+
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        02/05/2013 a 01/05/2014                                                                         
+        02/05/2014 a 01/05/2015                                                                         
+        02/05/2015 a 01/05/2016                                                                         
+
+        02/05/2016 a 01/05/2017                                                                         
+        02/05/2017 a 01/05/2018                                                                         
+        02/05/2018 a 01/05/2019                                                                         
+        02/05/2019 a 01/05/2020                                                                         
+        02/05/2020 a 01/05/2021                                                                         
+        02/05/2021 a 01/05/2022                                                                         
+        02/05/2022 a 01/05/2023                                                                         
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0005 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                    Empresa: 0159 - SUSIMEIRE BARBOZA DA SILVA - ME
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0006 
+
+
+------------------------------------------------------------------------
+

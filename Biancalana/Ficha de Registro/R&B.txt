@@ -1,0 +1,1722 @@
+
+
+
+
+                                                      Relatório de Funcionários
+
+                            Empresa: 0248 - R & B Servicos de limpeza e Manuntencao Ltda ME
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000003 
+
+          Nome:Erivania Siqueiro de Souza 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   03/08/2016          Cargo:0095  AUX. LIMPEZA 
+         Salário:1.110,70                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0001
+         Dependentes S.F.:                   H/Mês:  222,00                   Sindicato0019  SIEMACO SP 
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalCONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroHeliopolis
+         Endereço: Av Alm Delamare, 3250, con 5 bl 06 apt 
+         Município:SAO PAULO                                   UF: SP      CEP:04230-040         DDD:        Fone: 
+         Dt.Nasc.09/04/1978    Local:4820  SAO PAULO                             Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU COMPLETO                              Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: BRANCA                Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R033.889.965-0       Data Emissão:   28/06/2016      CPF:272.484.058/50                CTPS: 0063277   0256    SP 
+          PIS129.76901.81.5                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título255068280108
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 80-TRANSFERÊNCIA DE SAÍDA                     Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 03/08/2016                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0001 
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                            Empresa: 0248 - R & B Servicos de limpeza e Manuntencao Ltda ME
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Maria Siqueiro de Souza                            Feminino  Mãe                Normal              
+        Emidio Goncalves de Souza                          Masculino Pai                Normal              
+        FILHO 1                                 01/01/2016 Masculino Filho(a)           Normal              
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+        02/07/2018  N2                                                                            
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        03/08/2016 a 02/08/2017       30                04/06/2018 a 03/07/2018                         
+        03/08/2017 a 02/08/2018                                                                         
+        03/08/2018 a 02/08/2019                                                                         
+
+        03/08/2019 a 02/08/2020                                                                         
+        03/08/2020 a 02/08/2021                                                                         
+        03/08/2021 a 02/08/2022                                                                         
+        03/08/2022 a 02/08/2023                                                                         
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0002 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                            Empresa: 0248 - R & B Servicos de limpeza e Manuntencao Ltda ME
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000004 
+
+          Nome:Renata Maciel de Oliveira 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   02/08/2016          Cargo:0095  AUX. LIMPEZA 
+         Salário:1.110,70                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0001
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0019  SIEMACO SP 
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalCONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroJd Luana
+         Endereço: Rua dos Farmaceuticos, 293, casa 01 
+         Município:ITAQUAQUECETUBA                             UF: SP      CEP:08580-080         DDD:        Fone: 
+         Dt.Nasc.21/06/1992    Local:4302  ARUJA                                 Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU COMPLETO                              Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: BRANCA                Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R048.283.446-8       Data Emissão:   28/11/2008      CPF:411.642.588/50                CTPS: 0050292   931     SP 
+          PIS138.16086.89.5                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título404272800116
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 80-TRANSFERÊNCIA DE SAÍDA                     Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 02/08/2016                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0003 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                            Empresa: 0248 - R & B Servicos de limpeza e Manuntencao Ltda ME
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Julia Maciel de Oliveira                           Feminino  Mãe                Normal              
+        FILHA 1                                 01/01/2016 Masculino Filho(a)           Normal              
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+        23/05/2018  Q1     20/09/2018  Z1                                                         
+        02/07/2018  N2                                                                            
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        02/08/2016 a 01/08/2017 001   30                23/04/2018 a 22/05/2018                         
+        02/08/2017 a 01/08/2018 004                                                                     
+        02/08/2018 a 01/08/2019                                                                         
+
+        02/08/2019 a 01/08/2020                                                                         
+        02/08/2020 a 01/08/2021                                                                         
+        02/08/2021 a 01/08/2022                                                                         
+        02/08/2022 a 01/08/2023                                                                         
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0004 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                            Empresa: 0248 - R & B Servicos de limpeza e Manuntencao Ltda ME
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000005 
+
+          Nome:Sidinalva Maria dos Santos 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   15/09/2016          Cargo:0095  AUX. LIMPEZA 
+         Salário:1.110,70                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0001
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0019  SIEMACO SP 
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalCONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroVila Moraes
+         Endereço: Rua Sebastiano Mazzoni, 785, casa 05 
+         Município:SAO PAULO                                   UF: SP      CEP:04171-000         DDD:        Fone: 
+         Dt.Nasc.15/05/1991    Local:3109  PARAMIRIM                             Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU INCOMPLETO                            Est.CiviOUTROS
+         Defic.Não                 Raça: PARDA                 Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R052.209.713-3       Data Emissão:   25/02/2016      CPF:409.738.108/31                CTPS: 074614    343     SP 
+          PIS165.37021.40.6                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título371048140116
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 80-TRANSFERÊNCIA DE SAÍDA                     Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 15/09/2016                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0005 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                            Empresa: 0248 - R & B Servicos de limpeza e Manuntencao Ltda ME
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Maria Nenta dos Santos                             Feminino  Mãe                Normal              
+        Irenio Gomes dos santos                            Masculino Pai                Normal              
+        FILHO 1                                 01/01/2016 Masculino Filho(a)           Normal              
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+        27/07/2017  O3     10/08/2017  Z6                                                         
+        10/08/2017  O2     25/08/2017  Z2                                                         
+        25/08/2017  O2     27/11/2017  Z6                                                         
+        02/07/2018  N2                                                                            
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        15/09/2016 a 14/09/2017       30                10/07/2018 a 08/08/2018                         
+        15/09/2017 a 14/09/2018 002                                                                     
+        15/09/2018 a 14/09/2019                                                                         
+
+        15/09/2019 a 14/09/2020                                                                         
+        15/09/2020 a 14/09/2021                                                                         
+        15/09/2021 a 14/09/2022                                                                         
+        15/09/2022 a 14/09/2023                                                                         
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0006 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                            Empresa: 0248 - R & B Servicos de limpeza e Manuntencao Ltda ME
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000006 
+
+          Nome:Viviane do Nascimento Dias 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   11/10/2016          Cargo:0095  AUX. LIMPEZA 
+         Salário:1.110,70                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0001
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0019  SIEMACO SP 
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalCONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroAmericanopolis
+         Endereço: Rua Jose Ravelo, 10 
+         Município:SAO PAULO                                   UF: SP      CEP:04429-180         DDD:        Fone: 
+         Dt.Nasc.15/07/1975    Local:4820  SAO PAULO                             Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU INCOMPLETO                            Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: PARDA                 Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R033.772.887-2       Data Emissão:   18/05/2016      CPF:323.701.638/10                CTPS: 72319     334     SP 
+          PIS166.17193.14.9                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título222489950124
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 80-TRANSFERÊNCIA DE SAÍDA                     Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 11/10/2016                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0007 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                            Empresa: 0248 - R & B Servicos de limpeza e Manuntencao Ltda ME
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Antonia Alves do Nascimento Dias                   Feminino  Mãe                Normal              
+        Guaraci Dias                                       Masculino Pai                Normal              
+        FILHO 1                                 01/01/2016 Masculino Filho(a)           Normal              
+        Maria Eduarda Maciel Moreira            21/06/2018 Feminino  Filho(a)           Normal              
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+        02/07/2018  N2                                                                            
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        11/10/2016 a 10/10/2017       30                20/08/2018 a 18/09/2018                         
+        11/10/2017 a 10/10/2018                                                                         
+        11/10/2018 a 10/10/2019                                                                         
+
+        11/10/2019 a 10/10/2020                                                                         
+        11/10/2020 a 10/10/2021                                                                         
+        11/10/2021 a 10/10/2022                                                                         
+        11/10/2022 a 10/10/2023                                                                         
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0008 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                            Empresa: 0248 - R & B Servicos de limpeza e Manuntencao Ltda ME
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000008 
+
+          Nome:Adriana Nogueira Lima 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   07/12/2016          Cargo:0095  AUX. LIMPEZA 
+         Salário:1.110,70                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0001
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0019  SIEMACO SP 
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalCONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroJd Nelly
+         Endereço: rua Guido Oreggia, 9 
+         Município:SAO PAULO                                   UF: SP      CEP:05371-150         DDD:        Fone: 
+         Dt.Nasc.07/02/1995    Local:4823  SAO ROQUE                             Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU COMPLETO                              Est.CiviOUTROS
+         Defic.Não                 Raça: PARDA                 Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R043.226.600-8       Data Emissão:   16/06/2016      CPF:400.903.588/99                CTPS: 3186      384     SP 
+          PIS206.86876.80.0                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título407969660175
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 80-TRANSFERÊNCIA DE SAÍDA                     Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 07/12/2016                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0009 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                            Empresa: 0248 - R & B Servicos de limpeza e Manuntencao Ltda ME
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Izildinha Nogueira Lima                            Feminino  Mãe                Normal              
+        Antonio de Pedro Lima                              Masculino Pai                Normal              
+        FILHO 1                                 01/01/2016 Masculino Filho(a)           Normal              
+        FILHO 2                                 01/01/2016 Masculino Filho(a)           Normal              
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+        02/07/2018  N2                                                                            
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        07/12/2016 a 06/12/2017                                                                         
+        07/12/2017 a 06/12/2018                                                                         
+        07/12/2018 a 06/12/2019                                                                         
+
+        07/12/2019 a 06/12/2020                                                                         
+        07/12/2020 a 06/12/2021                                                                         
+        07/12/2021 a 06/12/2022                                                                         
+        07/12/2022 a 06/12/2023                                                                         
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0010 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                            Empresa: 0248 - R & B Servicos de limpeza e Manuntencao Ltda ME
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000009 
+
+          Nome:ANSELMO DAMIAO GRESPAN 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: PRO-LABORE                  Admissão:   01/04/2017          Cargo:0029  Socio Gerente 
+         Salário:954,00                      Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário: 
+         Dependentes S.F.:                   H/Mês:                           Sindicato:
+
+         Dependentes IRRF:                   Exper.: 00  00                   Cond.Sindical:
+
+
+         DADOS CADASTRAIS 
+                                                                                                 Bairro: 
+         Endereço:  ,  
+         Município:                                            UF:         CEP:                  DDD:        Fone: 
+         Dt.Nasc.:             Local:                                            Nacionalidade:                      Sexo: MASCULINO 
+
+         Dt.Chegada:               Grau Instrução:                                               Est.CiviOUTROS
+         Defic.Não                 Raça:                       Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          RG:                  Data Emissão:                   CPF:                              CTPS: 
+          PIS125.96242.89.5                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título: 
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS::                                                  Admissão RAIS: 
+
+         Movim.CAGED::                                               Vínculo Empregatício: 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 01/04/2017                                        Conta FGTS:                           Tipo de Admissão: 
+          Ocorrência:                                                Categoria: 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:  
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0011 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                            Empresa: 0248 - R & B Servicos de limpeza e Manuntencao Ltda ME
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+
+
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        01/04/2017 a 31/03/2018                                                                         
+        01/04/2018 a 31/03/2019                                                                         
+        01/04/2019 a 31/03/2020                                                                         
+
+        01/04/2020 a 31/03/2021                                                                         
+        01/04/2021 a 31/03/2022                                                                         
+        01/04/2022 a 31/03/2023                                                                         
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0012 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                            Empresa: 0248 - R & B Servicos de limpeza e Manuntencao Ltda ME
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000010 
+
+          Nome:Elenice Anunciacao Silva  
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   28/10/2020          Cargo:0095  AUX. LIMPEZA 
+         Salário:1.253,07                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0122
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0019  SIEMACO SP 
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalNÃO CONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroJundiapeba 
+         Endereço: Rua Jose Pereira, 1390, Bloco 04 Ap11 
+         Município:SAO PAULO                                   UF: SP      CEP:08750-740         DDD:        Fone: 
+         Dt.Nasc.27/06/1972    Local:3224  VALENCA                               Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU COMPLETO                              Est.CiviCASADO (A)
+         Defic.Não                 Raça: PARDA                 Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R53.187.300-6        Data Emissão:   18/08/2015      CPF:716.144.275/34                CTPS: 11521     86      BA 
+          PIS200.32380.90.3                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título065036990590
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 28/10/2020                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro : 045065                                    Registro Livro :B00192                Registro Folha :060 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0013 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                            Empresa: 0248 - R & B Servicos de limpeza e Manuntencao Ltda ME
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Carmino da Anunciacao                              Masculino Pai                Não Dependente IRRF 
+        Maria do Amparo da Conceicao                       Feminino  Mãe                Não Dependente IRRF 
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        28/10/2020 a 27/10/2021                                                                         
+        28/10/2021 a 27/10/2022                                                                         
+        28/10/2022 a 27/10/2023                                                                         
+
+
+
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0014 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                            Empresa: 0248 - R & B Servicos de limpeza e Manuntencao Ltda ME
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000012 
+
+          Nome:Paloma Felix da Silva  
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   03/06/2019          Cargo:0095  AUX. LIMPEZA 
+         Salário:1.253,07                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0001
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0019  SIEMACO SP 
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalNÃO CONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroV dos Palmares 
+         Endereço: Rua das Bromelias, 107 
+         Município:FRANCISCO MORATO                            UF: SP      CEP:03884-030         DDD:        Fone: 
+         Dt.Nasc.24/09/1984    Local:4551  JUNDIAI                               Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU COMPLETO                              Est.CiviCASADO (A)
+         Defic.Não                 Raça: BRANCA                Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R43049615-1          Data Emissão:   08/05/2013      CPF:326.555.738/38                CTPS: 089113    251     SP 
+          PIS130.51824.12.6                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título310362040116
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 70-TRANSFERÊNCIA DE ENTRADA                   Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 03/06/2019                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico: 03/06/2019          Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro : 7.837                                     Registro Livro :011                   Registro Folha :547 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0015 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                            Empresa: 0248 - R & B Servicos de limpeza e Manuntencao Ltda ME
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Maria do Carmo Felix da Silva                      Feminino  Mãe                Não Dependente IRRF 
+        Gustavo Henrique Felix da Silva         11/04/2008 Masculino Filho(a)           Normal              
+        Maria Sophia Felix da Silva             28/02/2017 Feminino  Filho(a)           Normal              
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+        27/04/2020  Y      26/06/2020  Z5     24/08/2020                                          
+        17/05/2021  X      26/08/2021  Z5                                                         
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        03/06/2019 a 02/06/2020       18                26/03/2020 a 12/04/2020                         
+        03/06/2019 a 02/06/2020       12                13/04/2020 a 24/04/2020                         
+        03/06/2020 a 02/06/2021                                                                         
+
+        03/06/2021 a 02/06/2022                                                                         
+        03/06/2022 a 02/06/2023                                                                         
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0016 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                            Empresa: 0248 - R & B Servicos de limpeza e Manuntencao Ltda ME
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000013 
+
+          Nome:Prislene Aparecida Emidio Maria 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   11/02/2021          Cargo:0116  Auxiliar de Limpeza 
+         Salário:1.253,07                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0235
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0019  SIEMACO SP 
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalNÃO CONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroItaim Paulista
+         Endereço: Rua Professor Flaminio Favero, 294, casa 01 
+         Município:SAO PAULO                                   UF: SP      CEP:08180-530         DDD:        Fone: 
+         Dt.Nasc.20/04/1988    Local:4820  SAO PAULO                             Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: GINASIAL COMPLETO                             Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: PARDA                 Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R37.394.477-9        Data Emissão:   15/04/2016      CPF:374.095.998/39                CTPS: 037589    368     SP 
+          PIS166.94900.82.2                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título348752980191
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 11/02/2021                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro : 14264                                     Registro Livro :024                   Registro Folha :509 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0017 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                            Empresa: 0248 - R & B Servicos de limpeza e Manuntencao Ltda ME
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Odair Emidio MAria                                 Masculino Pai                Não Dependente IRRF 
+        Eliane Maria de Souza                              Feminino  Mãe                Não Dependente IRRF 
+        Dayron Eduardo Emidio Maria             16/01/2009 Masculino Filho(a)           Normal              
+        Iasmim Aparecida da Silva               08/11/2006 Feminino  Filho(a)           Normal              
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        11/02/2021 a 10/02/2022                                                                         
+        11/02/2022 a 10/02/2023                                                                         
+
+
+
+
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0018 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                            Empresa: 0248 - R & B Servicos de limpeza e Manuntencao Ltda ME
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000014 
+
+          Nome:Valdeci Mendes da Silva  
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   12/02/2021          Cargo:0095  AUX. LIMPEZA 
+         Salário:1.253,07                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0019
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0019  SIEMACO SP 
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalNÃO CONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroJardim Dionisio
+         Endereço: Rua Francisco Pinto Ribeiro, 3 
+         Município:SAO PAULO                                   UF: SP      CEP:04935-040         DDD:        Fone: 
+         Dt.Nasc.11/02/1977    Local:2889  CALDEIRAO GRANDE                      Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU COMPLETO                              Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: PARDA                 Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R44002061x           Data Emissão:   15/12/2014      CPF:314.975.878/59                CTPS: 02486     00312   SP 
+          PIS119.62525.20.6                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título302540570116
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 12/02/2021                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0019 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                            Empresa: 0248 - R & B Servicos de limpeza e Manuntencao Ltda ME
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Alvino Izalto da Silva                             Masculino Pai                Não Dependente IRRF 
+        Ubaldina Mendes da Silva                           Feminino  Mãe                Não Dependente IRRF 
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        12/02/2021 a 11/02/2022                                                                         
+        12/02/2022 a 11/02/2023                                                                         
+
+
+
+
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0020 
+
+
+------------------------------------------------------------------------
+

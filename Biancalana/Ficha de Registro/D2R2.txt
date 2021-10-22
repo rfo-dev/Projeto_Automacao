@@ -1,0 +1,174 @@
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                      Empresa: 0107 - D2R2 Decoracao  de Interiores Ltda
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000001 
+
+          Nome:Roberta Biancalana 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: PRO-LABORE                  Admissão:   01/02/2013          Cargo:0006  Diretor 
+         Salário:724,00                      Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário: 
+         Dependentes S.F.:                   H/Mês:                           Sindicato:
+
+         Dependentes IRRF:                   Exper.: 00  00                   Cond.Sindical:
+
+
+         DADOS CADASTRAIS 
+                                                                                                 Bairro: 
+         Endereço:  ,  
+         Município:                                            UF:         CEP:                  DDD:        Fone: 
+         Dt.Nasc.:             Local:                                            Nacionalidade:                      Sexo: MASCULINO 
+
+         Dt.Chegada:               Grau Instrução:                                               Est.CiviOUTROS
+         Defic.Não                 Raça:                       Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          RG:                  Data Emissão:                   CPF:                              CTPS: 
+          PIS132.71300.89.4                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título: 
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS::                                                  Admissão RAIS: 
+
+         Movim.CAGED::                                               Vínculo Empregatício: 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 01/03/0201                                        Conta FGTS:                           Tipo de Admissão: 
+          Ocorrência:                                                Categoria: 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:  
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 07/10/2021                                                                                          Página: 0001 
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                      Empresa: 0107 - D2R2 Decoracao  de Interiores Ltda
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+
+
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        01/02/2013 a 31/01/2014                                                                         
+        01/02/2014 a 31/01/2015                                                                         
+        01/02/2015 a 31/01/2016                                                                         
+
+        01/02/2016 a 31/01/2017                                                                         
+        01/02/2017 a 31/01/2018                                                                         
+        01/02/2018 a 31/01/2019                                                                         
+        01/02/2019 a 31/01/2020                                                                         
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 07/10/2021                                                                                          Página: 0002 
+
+
+------------------------------------------------------------------------
+

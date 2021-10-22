@@ -1,0 +1,432 @@
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                    Empresa: 0118 - Estacionamento K.G.I Park Ltda - ME
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000001 
+
+          Nome:Jadielson Vieira da Silva 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   01/03/2011          Cargo:0046  Manobrista 
+         Salário:889,47                      Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0039
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato:
+
+         Dependentes IRRF:                   Exper.: 30  30                   Cond.SindicalCONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroVl Snt Estafam
+         Endereço: Rua Prof Roberto Mange, 17 
+         Município:SAO PAULO                                   UF: SP      CEP:04153-040         DDD:        Fone: 
+         Dt.Nasc.21/09/1984    Local:2688  JUNQUEIRO                             Nacionalidade:  BRASILEIRO             o: MASCULINO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU COMPLETO                              Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: BRANCA                Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R39.709.707-4        Data Emissão:                   CPF:052.825.044/21                CTPS: 043508    020     AL 
+          PIS132.79459.81.7                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título: 
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 80-TRANSFERÊNCIA DE SAÍDA                     Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 01/03/2011                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:  
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0001 
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                    Empresa: 0118 - Estacionamento K.G.I Park Ltda - ME
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Maria Jose Vieira de Lima Silva                    Feminino  Mãe                Não Dependente IRRF 
+
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+        01/04/2012  N1                                                                            
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        01/03/2011 a 29/02/2012                                                                         
+        01/03/2012 a 28/02/2013                                                                         
+        01/03/2013 a 28/02/2014                                                                         
+
+        01/03/2014 a 28/02/2015                                                                         
+        01/03/2015 a 29/02/2016                                                                         
+        01/03/2016 a 28/02/2017                                                                         
+        01/03/2017 a 28/02/2018                                                                         
+        01/03/2018 a 28/02/2019                                                                         
+        01/03/2019 a 29/02/2020                                                                         
+        01/03/2020 a 28/02/2021                                                                         
+        01/03/2021 a 28/02/2022                                                                         
+        01/03/2022 a 28/02/2023                                                                         
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0002 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                    Empresa: 0118 - Estacionamento K.G.I Park Ltda - ME
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0003 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                    Empresa: 0118 - Estacionamento K.G.I Park Ltda - ME
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000006 
+
+          Nome:Juliano de Sousa Nascimento 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   02/01/2018          Cargo:0154  Operador de estacionamento 
+         Salário:1.632,99                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0114
+         Dependentes S.F.:                   H/Mês:  66,00                    Sindicato0017  Sindicato dos Empreg de estace garagens do Est  
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalNÃO CONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroJd Scaf
+         Endereço: Rua Teodoro Cabral, 56 
+         Município:SAO PAULO                                   UF: SP      CEP:04387-220         DDD:        Fone: 
+         Dt.Nasc.16/07/1990    Local:4802  SAO BERNARDO DO CAMPO                 Nacionalidade:  BRASILEIRO             o: MASCULINO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU COMPLETO                              Est.CiviCASADO (A)
+         Defic.Não                 Raça: BRANCA                Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R56.496.705-1        Data Emissão:   02/04/2014      CPF:603.310.573/79                CTPS: 1340710   003     CE 
+          PIS161.78031.30.1                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título069976640736
+         Cart.Res.:922696                      Categoria de Reservista:  m                       Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 02/01/2018                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0004 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                    Empresa: 0118 - Estacionamento K.G.I Park Ltda - ME
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Jose Nilton do Nascimento                          Masculino Pai                Não Dependente IRRF 
+        Maria Aparecida de Sousa Nascimento                Feminino  Mãe                Não Dependente IRRF 
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+        02/05/2020  X      01/07/2020  Z5                                                         
+        03/08/2020  X      02/09/2020  Z5                                                         
+        05/09/2020  X      03/11/2020  Z5                                                         
+        03/11/2020  X      01/01/2021  Z5                                                         
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        02/01/2018 a 01/01/2019       30                02/05/2019 a 31/05/2019                         
+        02/01/2019 a 01/01/2020       30                01/04/2020 a 30/04/2020                         
+        02/01/2020 a 01/01/2021                                                                         
+
+        02/01/2021 a 01/01/2022                                                                         
+        02/01/2022 a 01/01/2023                                                                         
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0005 
+
+
+------------------------------------------------------------------------
+

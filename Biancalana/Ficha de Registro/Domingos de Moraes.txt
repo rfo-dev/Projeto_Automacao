@@ -1,0 +1,604 @@
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                  Empresa: 0095 - Condominio Edificio Domingos de Morais
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000001 
+
+          Nome:Cicero Alexandrino da Silva 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   01/07/1995          Cargo:0055  Zelador 
+         Salário:1.597,83                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0002
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0010  Sindificios 
+
+         Dependentes IRRF:                   Exper.: 00  00                   Cond.SindicalCONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroVila Mariana
+         Endereço: Rua Domingos de Morais, 1757, apto 35 
+         Município:SAO PAULO                                   UF: SP      CEP:04009-003         DDD:        Fone: 
+         Dt.Nasc.20/01/1946    Local:2555  JUPI                                  Nacionalidade:  BRASILEIRO             o: MASCULINO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU COMPLETO                              Est.CiviCASADO (A)
+         Defic.Não                 Raça: BRANCA                Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R4.246.451           Data Emissão:   30/07/2015      CPF:703.544.728/87                CTPS: 024122    186     SP 
+          PIS103.87775.90.8                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título743480116
+         Cart.Res.:529093                      Categoria de Reservista:  c                       Insc.INSS: 
+          CNH01623902730                                 Categoria CNH:  d                       Validade: 05/11/2019 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 01/07/1995                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:01
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro : 3188                                      Registro Livro :b25                   Registro Folha :141 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 07/10/2021                                                                                          Página: 0001 
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                  Empresa: 0095 - Condominio Edificio Domingos de Morais
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Osmina l da Silva                                  Feminino  Mãe                Não Dependente IRRF 
+
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+        04/11/2012  P1     23/10/2013  Z7                                                         
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        01/07/1995 a 30/06/1996                                                                         
+        01/07/1996 a 30/06/1997                                                                         
+        01/07/1997 a 30/06/1998                                                                         
+
+        01/07/1998 a 30/06/1999                                                                         
+        01/07/1999 a 30/06/2000                                                                         
+        01/07/2000 a 30/06/2001                                                                         
+        01/07/2001 a 30/06/2002                                                                         
+        01/07/2002 a 30/06/2003                                                                         
+        01/07/2003 a 30/06/2004                                                                         
+        01/07/2004 a 30/06/2005                                                                         
+        01/07/2005 a 30/06/2006                                                                         
+        01/07/2006 a 30/06/2007                                                                         
+        01/07/2007 a 30/06/2008                                                                         
+        01/07/2008 a 30/06/2009                                                                         
+        01/07/2009 a 30/06/2010                                                                         
+        01/07/2010 a 30/06/2011       30                01/06/2011 a 30/06/2011                         
+
+        01/07/2011 a 30/06/2012       30                01/05/2012 a 30/05/2012                         
+        01/07/2012 a 30/06/2013                                                                         
+        23/10/2013 a 22/10/2014       30                02/02/2015 a 03/03/2015                         
+        23/10/2014 a 22/10/2015       30                02/05/2016 a 31/05/2016                         
+        23/10/2015 a 22/10/2016       30                03/07/2017 a 01/08/2017                         
+        23/10/2016 a 22/10/2017       30                02/07/2018 a 31/07/2018                         
+        23/10/2017 a 22/10/2018       30                01/07/2019 a 30/07/2019                         
+        23/10/2018 a 22/10/2019       30                01/07/2020 a 30/07/2020                         
+        23/10/2019 a 22/10/2020       30                01/09/2021 a 30/09/2021                         
+        23/10/2020 a 22/10/2021                                                                         
+        23/10/2021 a 22/10/2022                                                                         
+        23/10/2022 a 22/10/2023                                                                         
+
+
+
+        Data de Emissão: 07/10/2021                                                                                          Página: 0002 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                  Empresa: 0095 - Condominio Edificio Domingos de Morais
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 07/10/2021                                                                                          Página: 0003 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                  Empresa: 0095 - Condominio Edificio Domingos de Morais
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000002 
+
+          Nome:Eduardo Meirelles Da Rocha 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   01/01/2017          Cargo:0204  Sindico 
+         Salário:                            Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0002
+         Dependentes S.F.:                   H/Mês:                           Sindicato0010  Sindificios 
+
+         Dependentes IRRF:                   Exper.: 00  00                   Cond.Sindical:
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroVila Mariana
+         Endereço: Rua Domingos de Morais - de 1259 a 1947 - lado impar, 1757, Apto 23 
+         Município:SAO PAULO                                   UF: SP      CEP:04009-003         DDD:        Fone: 
+         Dt.Nasc.21/04/1978    Local:4820  SAO PAULO                             Nacionalidade:  BRASILEIRO             o: MASCULINO 
+
+         Dt.Chegada:               Grau Instrução: SUPERIOR COMPLETO                             Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: BRANCA                Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R259638158           Data Emissão:   30/07/1999      CPF:276.578.298/93                CTPS: 042556    00222   SP 
+          PIS128.39817.89.8                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título2694266901
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH007357610201                                Categoria CNH:  B                       Validade: 02/01/2019 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 10-ADMISSÃO DE EMPREGADO NO 1ºEMPREGO         Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS:                                                   Conta FGTS:                           Tipo de Admissão: 1A 
+          Ocorrência:                                                Categoria: 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:01
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 07/10/2021                                                                                          Página: 0004 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                  Empresa: 0095 - Condominio Edificio Domingos de Morais
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+
+
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        01/01/2017 a 31/12/2017                                                                         
+        01/01/2018 a 31/12/2018                                                                         
+        01/01/2019 a 31/12/2019                                                                         
+
+        01/01/2020 a 31/12/2020                                                                         
+        01/01/2021 a 31/12/2021                                                                         
+        01/01/2022 a 31/12/2022                                                                         
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 07/10/2021                                                                                          Página: 0005 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                  Empresa: 0095 - Condominio Edificio Domingos de Morais
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000003 
+
+          Nome:Zelia Vilar Yamao  
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: AUTONOMOS                   Admissão:   01/08/2018          Cargo:0204  Sindico 
+         Salário:1.100,00                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0002
+         Dependentes S.F.:                   H/Mês:                           Sindicato:
+
+         Dependentes IRRF:                   Exper.: 00  00                   Cond.Sindical:
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroVila Mariana 
+         Endereço: Rua Domingos de Morais - de 1259 a 1947 - lado impar, 1757 
+         Município:SAO PAULO                                   UF: SP      CEP:04009-003         DDD:        Fone: 
+         Dt.Nasc.29/03/1969    Local:1110  MANACAPURU                            Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU COMPLETO                              Est.CiviCASADO (A)
+         Defic.Não                 Raça: BRANCA                Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R28.747.126-3        Data Emissão:   13/08/2009      CPF:235.685.342/15                CTPS: 
+          PIS121.87631.20.8                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título: 
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS:                                                   Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  13-TRAB. AUTÔNOMO/EQUIPARADO,  
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 07/10/2021                                                                                          Página: 0006 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                  Empresa: 0095 - Condominio Edificio Domingos de Morais
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+
+
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        01/08/2018 a 31/07/2019                                                                         
+        01/08/2019 a 31/07/2020                                                                         
+        01/08/2020 a 31/07/2021                                                                         
+
+        01/08/2021 a 31/07/2022                                                                         
+        01/08/2022 a 31/07/2023                                                                         
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 07/10/2021                                                                                          Página: 0007 
+
+
+------------------------------------------------------------------------
+

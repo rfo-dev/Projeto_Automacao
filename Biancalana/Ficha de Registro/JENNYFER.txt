@@ -1,0 +1,2582 @@
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000001 
+
+          Nome:Nildo Batista de Lucena 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   01/01/2001          Cargo:0171  Chapeiro de Lanchonete 
+         Salário:1.912,17                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0094
+         Dependentes S.F.:                   H/Mês:  110,00                   Sindicato0024  Sindicato dos Padeiros de Sao Paulo 
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalNÃO CONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroSe
+         Endereço: Rua Conde de Sarzedas, 242 
+         Município:SAO PAULO                                   UF: SP      CEP:01512-000         DDD:011     Fone: 962778625 
+         Dt.Nasc.30/09/1967    Local:2484  BOM JARDIM                            Nacionalidade:  BRASILEIRO             o: MASCULINO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU COMPLETO                              Est.CiviCASADO (A)
+         Defic.Não                 Raça: BRANCA                Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R536256834           Data Emissão:   23/06/2009      CPF:546.616.684/72                CTPS: 07399     018     SP 
+          PIS122.21238.35.6                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título227468200116
+         Cart.Res.:136984                      Categoria de Reservista:  f-cdi                   Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 01/01/2001                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro : 663                                       Registro Livro :10                    Registro Folha :167 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0001 
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Jose Batista de Lucena Filho                       Masculino Pai                Não Dependente IRRF 
+        Elena Josefa da Conceicao                          Feminino  Mãe                Não Dependente IRRF 
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        01/01/2001 a 31/12/2001                                                                         
+        01/01/2002 a 31/12/2002                                                                         
+        01/01/2003 a 31/12/2003                                                                         
+
+        01/01/2004 a 31/12/2004                                                                         
+        01/01/2005 a 31/12/2005                                                                         
+        01/01/2006 a 31/12/2006                                                                         
+        01/01/2007 a 31/12/2007                                                                         
+        01/01/2008 a 31/12/2008                                                                         
+        01/01/2009 a 31/12/2009                                                                         
+        01/01/2010 a 31/12/2010                                                                         
+        01/01/2011 a 31/12/2011                                                                         
+        01/01/2012 a 31/12/2012                                                                         
+        01/01/2013 a 31/12/2013                                                                         
+        01/01/2014 a 31/12/2014                                                                         
+        01/01/2015 a 31/12/2015                                                                         
+        01/01/2016 a 31/12/2016                                                                         
+
+        01/01/2017 a 31/12/2017       30                01/08/2019 a 30/08/2019                         
+        01/01/2018 a 31/12/2018                                                                         
+        01/01/2019 a 31/12/2019                                                                         
+        01/01/2020 a 31/12/2020                                                                         
+        01/01/2021 a 31/12/2021                                                                         
+        01/01/2022 a 31/12/2022                                                                         
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0002 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0003 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000002 
+
+          Nome:Sandro Jose Marinho da Silva 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   01/03/2005          Cargo:0172  Padeiro 
+         Salário:2.046,08                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0020
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0024  Sindicato dos Padeiros de Sao Paulo 
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalCONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroJd Gloria
+         Endereço: Rua Claudio Rossi, 320, ap 5 
+         Município:SAO PAULO                                   UF: SP      CEP:01547-000         DDD:        Fone: 
+         Dt.Nasc.26/07/1973    Local:2412  SANTA RITA                            Nacionalidade:  BRASILEIRO             o: MASCULINO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU COMPLETO                              Est.CiviOUTROS
+         Defic.Não                 Raça: BRANCA                Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R1769854             Data Emissão:                   CPF:928.195.164/91                CTPS: 96326     015     PB 
+          PIS125.00154.32.9                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título207896012128
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 01/03/2005                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro : 62322                                     Registro Livro :B210                  Registro Folha :064 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0004 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Mario Severino da Silva                            Masculino Pai                Não Dependente IRRF 
+        Josefa Leonor da Silva                             Feminino  Mãe                Não Dependente IRRF 
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        01/03/2005 a 28/02/2006                                                                         
+        01/03/2006 a 28/02/2007                                                                         
+        01/03/2007 a 29/02/2008                                                                         
+
+        01/03/2008 a 28/02/2009                                                                         
+        01/03/2009 a 28/02/2010                                                                         
+        01/03/2010 a 28/02/2011                                                                         
+        01/03/2011 a 29/02/2012                                                                         
+        01/03/2012 a 28/02/2013                                                                         
+        01/03/2013 a 28/02/2014                                                                         
+        01/03/2014 a 28/02/2015                                                                         
+        01/03/2015 a 29/02/2016                                                                         
+        01/03/2016 a 28/02/2017                                                                         
+        01/03/2017 a 28/02/2018       30                01/03/2018 a 30/03/2018                         
+        01/03/2018 a 28/02/2019                                                                         
+        01/03/2019 a 29/02/2020                                                                         
+        01/03/2020 a 28/02/2021                                                                         
+
+        01/03/2021 a 28/02/2022                                                                         
+        01/03/2022 a 28/02/2023                                                                         
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0005 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0006 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000003 
+
+          Nome:Edilson de Souza Pires 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   01/08/1995          Cargo:0173  Confeiteiro 
+         Salário:3.030,01                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0020
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0024  Sindicato dos Padeiros de Sao Paulo 
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalCONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroParque Residencial Marengo
+         Endereço: Rua Alexandre Herculano, 295 
+         Município:ITAQUAQUECETUBA                             UF: SP      CEP:08594-320         DDD:011     Fone: 958881592 
+         Dt.Nasc.03/07/1974    Local:3065  MANOEL VITORINO                       Nacionalidade:  BRASILEIRO             o: MASCULINO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU COMPLETO                              Est.CiviCASADO (A)
+         Defic.Não                 Raça: PARDA                 Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R331691012           Data Emissão:   30/01/1995      CPF:734.201.235/15                CTPS: 70391     182     SP 
+          PIS125.55334.65.5                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título073566560507
+         Cart.Res.:479419                      Categoria de Reservista:  m                       Insc.INSS: 
+          CNH02364598468                                 Categoria CNH:  b                       Validade: 21/06/2022 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 01/08/1995                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:03
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro : 4640                                      Registro Livro :3                     Registro Folha :V163 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0007 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Joaquim de Souza Pires                             Masculino Pai                Não Dependente IRRF 
+        Armezinda Rosa de Jesus                            Feminino  Mãe                Não Dependente IRRF 
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        01/08/1995 a 31/07/1996                                                                         
+        01/08/1996 a 31/07/1997                                                                         
+        01/08/1997 a 31/07/1998                                                                         
+
+        01/08/1998 a 31/07/1999                                                                         
+        01/08/1999 a 31/07/2000                                                                         
+        01/08/2000 a 31/07/2001                                                                         
+        01/08/2001 a 31/07/2002                                                                         
+        01/08/2002 a 31/07/2003                                                                         
+        01/08/2003 a 31/07/2004                                                                         
+        01/08/2004 a 31/07/2005                                                                         
+        01/08/2005 a 31/07/2006                                                                         
+        01/08/2006 a 31/07/2007                                                                         
+        01/08/2007 a 31/07/2008                                                                         
+        01/08/2008 a 31/07/2009                                                                         
+        01/08/2009 a 31/07/2010                                                                         
+        01/08/2010 a 31/07/2011                                                                         
+
+        01/08/2011 a 31/07/2012                                                                         
+        01/08/2012 a 31/07/2013                                                                         
+        01/08/2013 a 31/07/2014                                                                         
+        01/08/2014 a 31/07/2015                                                                         
+        01/08/2015 a 31/07/2016                                                                         
+        01/08/2016 a 31/07/2017                                                                         
+        01/08/2017 a 31/07/2018       30                01/08/2018 a 30/08/2018                         
+        01/08/2018 a 31/07/2019                                                                         
+        01/08/2019 a 31/07/2020                                                                         
+        01/08/2020 a 31/07/2021                                                                         
+        01/08/2021 a 31/07/2022                                                                         
+        01/08/2022 a 31/07/2023                                                                         
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0008 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0009 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000004 
+
+          Nome:Antonio Carlos Silva dos Santos 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   02/01/2007          Cargo:0174  Sub Gerente 
+         Salário:3.464,50                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0020
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0024  Sindicato dos Padeiros de Sao Paulo 
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalCONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroJardim da Conquista 
+         Endereço: Travessa Barracao de Zinco, 145 
+         Município:SAO PAULO                                   UF: SP      CEP:08344-120         DDD:011     Fone: 27348562 
+         Dt.Nasc.01/01/1976    Local:2505  CARUARU                               Nacionalidade:  BRASILEIRO             o: MASCULINO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU COMPLETO                              Est.CiviCASADO (A)
+         Defic.Não                 Raça: PARDA                 Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R35.741.751-3        Data Emissão:   10/10/2012      CPF:883.722.514/87                CTPS: 57112     034     PE 
+          PIS125.15143.60.3                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título280788250183
+         Cart.Res.:041142025158                Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 02/01/2007                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro : 80855                                     Registro Livro :B272                  Registro Folha :179 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0010 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Jose Pedro dos Santos                              Masculino Pai                Não Dependente IRRF 
+        Cicera Silva dos Santos                            Feminino  Mãe                Não Dependente IRRF 
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        02/01/2007 a 01/01/2008                                                                         
+        02/01/2008 a 01/01/2009                                                                         
+        02/01/2009 a 01/01/2010                                                                         
+
+        02/01/2010 a 01/01/2011                                                                         
+        02/01/2011 a 01/01/2012                                                                         
+        02/01/2012 a 01/01/2013                                                                         
+        02/01/2013 a 01/01/2014                                                                         
+        02/01/2014 a 01/01/2015                                                                         
+        02/01/2015 a 01/01/2016                                                                         
+        02/01/2016 a 01/01/2017                                                                         
+        02/01/2017 a 01/01/2018       30                01/07/2018 a 30/07/2018                         
+        02/01/2018 a 01/01/2019       30                01/07/2019 a 30/07/2019                         
+        02/01/2019 a 01/01/2020 001                                                                     
+        02/01/2020 a 01/01/2021                                                                         
+        02/01/2021 a 01/01/2022                                                                         
+        02/01/2022 a 01/01/2023                                                                         
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0011 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0012 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000005 
+
+          Nome:Isaac Tome da Silva 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   01/10/1997          Cargo:0172  Padeiro 
+         Salário:4.003,93                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0094
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0024  Sindicato dos Padeiros de Sao Paulo 
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalCONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroCidade Julia
+         Endereço: Rua Babilonia, 102 
+         Município:SAO PAULO                                   UF: SP      CEP:04425-110         DDD:011     Fone: 956263513 
+         Dt.Nasc.30/03/1964    Local:2468  ALIANCA                               Nacionalidade:  BRASILEIRO             o: MASCULINO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU COMPLETO                              Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: PARDA                 Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R375053724           Data Emissão:   11/03/2006      CPF:106.405.108/17                CTPS: 05376     013     PE 
+          PIS120.70628.66.5                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título314061400116
+         Cart.Res.:210302031807                Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 01/10/1997                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro : 1988                                      Registro Livro :05                    Registro Folha :94 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0013 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Joaquim Tome da Silva                              Masculino Pai                Não Dependente IRRF 
+        Dulce Felix da Silva                               Feminino  Mãe                Não Dependente IRRF 
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+        03/05/2021  X      26/08/2021  Z5                                                         
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        01/10/1997 a 30/09/1998                                                                         
+        01/10/1998 a 30/09/1999                                                                         
+        01/10/1999 a 30/09/2000                                                                         
+
+        01/10/2000 a 30/09/2001                                                                         
+        01/10/2001 a 30/09/2002                                                                         
+        01/10/2002 a 30/09/2003                                                                         
+        01/10/2003 a 30/09/2004                                                                         
+        01/10/2004 a 30/09/2005                                                                         
+        01/10/2005 a 30/09/2006                                                                         
+        01/10/2006 a 30/09/2007                                                                         
+        01/10/2007 a 30/09/2008                                                                         
+        01/10/2008 a 30/09/2009                                                                         
+        01/10/2009 a 30/09/2010                                                                         
+        01/10/2010 a 30/09/2011                                                                         
+        01/10/2011 a 30/09/2012                                                                         
+        01/10/2012 a 30/09/2013                                                                         
+
+        01/10/2013 a 30/09/2014       30                01/11/2014 a 30/11/2014                         
+        01/10/2014 a 30/09/2015                                                                         
+        01/10/2015 a 30/09/2016                                                                         
+        01/10/2016 a 30/09/2017                                                                         
+        01/10/2017 a 30/09/2018       30                01/10/2018 a 30/10/2018                         
+        01/10/2018 a 30/09/2019       30                01/07/2019 a 30/07/2019                         
+        01/10/2019 a 30/09/2020                                                                         
+        01/10/2020 a 30/09/2021                                                                         
+        01/10/2021 a 30/09/2022                                                                         
+        01/10/2022 a 30/09/2023                                                                         
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0014 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0015 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000007 
+
+          Nome:Nubia de Deus de Lima 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   01/06/1998          Cargo:0064  Ajudante de Cozinha 
+         Salário:1.549,57                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0001
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0024  Sindicato dos Padeiros de Sao Paulo 
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalCONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroLiberdade
+         Endereço: Rua Doutor Rodrigo Silva, 196 
+         Município:SAO PAULO                                   UF: SP      CEP:01501-010         DDD:        Fone: 
+         Dt.Nasc.16/11/1962    Local:2899  CANDEIAS                              Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: PRIMÁRIO COMPLETO                             Est.CiviCASADO (A)
+         Defic.Não                 Raça: PARDA                 Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R18.605.487-7        Data Emissão:   05/02/2010      CPF:087.890.608/81                CTPS: 61451     063     SP 
+          PIS123.74841.93.8                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título097447980167
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 01/06/1998                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro : 18273                                     Registro Livro :22                    Registro Folha :72 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0016 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Joao de Deus de Lima                               Masculino Pai                Não Dependente IRRF 
+
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        01/06/1998 a 31/05/1999                                                                         
+        01/06/1999 a 31/05/2000                                                                         
+        01/06/2000 a 31/05/2001                                                                         
+
+        01/06/2001 a 31/05/2002                                                                         
+        01/06/2002 a 31/05/2003                                                                         
+        01/06/2003 a 31/05/2004                                                                         
+        01/06/2004 a 31/05/2005                                                                         
+        01/06/2005 a 31/05/2006                                                                         
+        01/06/2006 a 31/05/2007                                                                         
+        01/06/2007 a 31/05/2008                                                                         
+        01/06/2008 a 31/05/2009                                                                         
+        01/06/2009 a 31/05/2010                                                                         
+        01/06/2010 a 31/05/2011                                                                         
+        01/06/2011 a 31/05/2012                                                                         
+        01/06/2012 a 31/05/2013                                                                         
+        01/06/2013 a 31/05/2014                                                                         
+
+        01/06/2014 a 31/05/2015                                                                         
+        01/06/2015 a 31/05/2016                                                                         
+        01/06/2016 a 31/05/2017                                                                         
+        01/06/2017 a 31/05/2018       30                01/06/2018 a 30/06/2018                         
+        01/06/2018 a 31/05/2019       30                02/09/2019 a 01/10/2019                         
+        01/06/2019 a 31/05/2020 001   30                05/04/2021 a 04/05/2021                         
+        01/06/2020 a 31/05/2021                                                                         
+        01/06/2021 a 31/05/2022                                                                         
+        01/06/2022 a 31/05/2023                                                                         
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0017 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0018 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000009 
+
+          Nome:Donisete da Costa Figueiredo 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   01/06/2013          Cargo:0064  Ajudante de Cozinha 
+         Salário:1.845,18                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0095
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0024  Sindicato dos Padeiros de Sao Paulo 
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalCONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroPq Res Marengo
+         Endereço: Rua Tristao de  Ataide, 54 
+         Município:SAO PAULO                                   UF: SP      CEP:08594-350         DDD:        Fone: 
+         Dt.Nasc.13/12/1977    Local:1766  JAICOS                                Nacionalidade:  BRASILEIRO             o: MASCULINO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU INCOMPLETO                            Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: PARDA                 Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R52.642.966-5        Data Emissão:   28/04/2012      CPF:290.217.898/09                CTPS: 92535     259     SP 
+          PIS129.39699.77.3                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título042009111511
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 01/06/2013                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0019 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Vitor Eustaquio de Figueiredo                      Masculino Pai                Não Dependente IRRF 
+        Maria do Rosario da  Costa                         Feminino  Mãe                Não Dependente IRRF 
+        JOAO VICTOR DA LUZ FIGUEIREDO           30/01/2014 Masculino Filho(a)           Normal              
+        ENZO GABRIEL DA LUZ FIGUEIREDO          17/07/2016 Masculino Filho(a)           Normal              
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+        27/08/2020  X      26/10/2020  Z5                                                         
+        09/11/2020  X      01/01/2021  Z5                                                         
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        01/06/2013 a 31/05/2014       30                01/06/2014 a 30/06/2014                         
+        01/06/2014 a 31/05/2015                                                                         
+        01/06/2015 a 31/05/2016       30                01/06/2016 a 30/06/2016                         
+
+        01/06/2016 a 31/05/2017       30                01/06/2017 a 30/06/2017                         
+        01/06/2017 a 31/05/2018       30                01/06/2018 a 30/06/2018                         
+        01/06/2018 a 31/05/2019       30                01/10/2019 a 30/10/2019                         
+        01/06/2019 a 31/05/2020                                                                         
+        01/06/2020 a 31/05/2021                                                                         
+        01/06/2021 a 31/05/2022                                                                         
+        01/06/2022 a 31/05/2023                                                                         
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0020 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0021 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000011 
+
+          Nome:Jose Cardoso Sampaio 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   01/06/2014          Cargo:0131  Balconista 
+         Salário:1.867,11                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0096
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0024  Sindicato dos Padeiros de Sao Paulo 
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalCONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroParaiso
+         Endereço: Rua Aruja, 116 
+         Município:SAO PAULO                                   UF: SP      CEP:04104-040         DDD:011     Fone: 944030629 
+         Dt.Nasc.23/05/1974    Local:2010  NOVA RUSSAS                           Nacionalidade:  BRASILEIRO             o: MASCULINO 
+
+         Dt.Chegada:               Grau Instrução: GINASIAL COMPLETO                             Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: PARDA                 Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R273778638           Data Emissão:   23/06/2010      CPF:542.736.173/15                CTPS: 022385    32      CE 
+          PIS125.44818.17.6                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título429778670183
+         Cart.Res.:027996                      Categoria de Reservista:  n                       Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 01/06/2014                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro : 154505                                    Registro Livro :363                   Registro Folha :027f 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0022 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Diocina Cardoso Sampaio                            Feminino  Mãe                Não Dependente IRRF 
+
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        01/06/2014 a 31/05/2015                                                                         
+        01/06/2015 a 31/05/2016                                                                         
+        01/06/2016 a 31/05/2017                                                                         
+
+        01/06/2017 a 31/05/2018       30                01/06/2018 a 30/06/2018                         
+        01/06/2018 a 31/05/2019 011   24                01/07/2019 a 24/07/2019                         
+        01/06/2019 a 31/05/2020 007                                                                     
+        01/06/2020 a 31/05/2021                                                                         
+        01/06/2021 a 31/05/2022                                                                         
+        01/06/2022 a 31/05/2023                                                                         
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0023 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0024 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000016 
+
+          Nome:Rafael Duarte Pires 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   01/11/2017          Cargo:0111  Operador de Caixa  
+         Salário:1.500,78                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0095
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0024  Sindicato dos Padeiros de Sao Paulo 
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.Sindical:
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroPq Res Marengo Baixo
+         Endereço: Rua Alexandre Herculano, 295, a 
+         Município:ITAQUAQUECETUBA                             UF: SP      CEP:08594-320         DDD:        Fone: 
+         Dt.Nasc.05/02/1998    Local:4842  SUZANO                                Nacionalidade:  BRASILEIRO             o: MASCULINO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU COMPLETO                              Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: PARDA                 Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R38.667.677-x        Data Emissão:   20/02/2016      CPF:386.739.448/21                CTPS: 038471    441     SP 
+          PIS212.94702.01.9                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título434266450116
+         Cart.Res.:461183                      Categoria de Reservista:  b                       Insc.INSS: 
+          CNH06658136900                                 Categoria CNH:  b                       Validade: 01/03/2021 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 01/11/2017                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro : 103304                                    Registro Livro :a171                  Registro Folha :208v 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0025 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Edilson de Souza Pires                             Masculino Pai                Não Dependente IRRF 
+        Maria Rosa Duarte                                  Feminino  Mãe                Não Dependente IRRF 
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        01/11/2017 a 31/10/2018       30                01/11/2018 a 30/11/2018                         
+        01/11/2018 a 31/10/2019                                                                         
+        01/11/2019 a 31/10/2020                                                                         
+
+        01/11/2020 a 31/10/2021                                                                         
+        01/11/2021 a 31/10/2022                                                                         
+        01/11/2022 a 31/10/2023                                                                         
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0026 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000017 
+
+          Nome:Luiz Henrique Ribeiro dos Santos 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   01/04/2018          Cargo:0203  ENTREGADOR  
+         Salário:1.500,78                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0095
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0024  Sindicato dos Padeiros de Sao Paulo 
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalNÃO CONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroVila Clara
+         Endereço: Rua Mossul, 14 
+         Município:SAO PAULO                                   UF: SP      CEP:04414-260         DDD:        Fone: 
+         Dt.Nasc.07/05/2000    Local:4820  SAO PAULO                             Nacionalidade:  BRASILEIRO             o: MASCULINO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU INCOMPLETO                            Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: NEGRA                 Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R53.276.531-x        Data Emissão:   26/10/2016      CPF:413.503.638/47                CTPS: 020143    428     SP 
+          PIS168.40113.48.6                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título: 
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 10-ADMISSÃO DE EMPREGADO NO 1ºEMPREGO         Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 01/04/2018                                        Conta FGTS:                           Tipo de Admissão: 9A 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:01
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0027 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Luiz Andre dos Santos Zacarias                     Masculino Pai                Não Dependente IRRF 
+        Luciene Ribeiro da Silva                           Feminino  Mãe                Não Dependente IRRF 
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+        29/05/2020  X      28/07/2020  Z5                                                         
+        28/07/2020  X      26/09/2020  Z5                                                         
+        26/09/2020  X      25/11/2020  Z5                                                         
+        25/11/2020  X      01/01/2021  Z5                                                         
+        05/06/2021  X      25/08/2021  Z5                                                         
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        01/04/2018 a 31/03/2019 004   30                09/03/2020 a 07/04/2020                         
+        01/04/2019 a 31/03/2020 011                                                                     
+        01/04/2020 a 31/03/2021                                                                         
+
+        01/04/2021 a 31/03/2022                                                                         
+        01/04/2022 a 31/03/2023                                                                         
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0028 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000019 
+
+          Nome:Roger De Jesus Domingos  
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   01/04/2019          Cargo:0111  Operador de Caixa  
+         Salário:1.500,78                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0094
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0024  Sindicato dos Padeiros de Sao Paulo 
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalNÃO CONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroParque Residencial Marengo
+         Endereço: Avenida Plino Salgado, 6 
+         Município:ITAQUAQUECETUBA                             UF: SP      CEP:08594-040         DDD:        Fone: 
+         Dt.Nasc.17/12/1999    Local:4842  SUZANO                                Nacionalidade:  BRASILEIRO             o: MASCULINO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU COMPLETO                              Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: AMARELA               Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R374368855           Data Emissão:   17/02/2016      CPF:481.016.848/40                CTPS: 028533    00449   SP 
+          PIS212.95089.41.8                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título454477170116
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 10-ADMISSÃO DE EMPREGADO NO 1ºEMPREGO         Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 01/04/2019                                        Conta FGTS:                           Tipo de Admissão: 1A 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico: 14/03/2019          Ex. Periódico:                        Transferência:01
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0029 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0246 - JENNYFER PAES E DOCES LTDA
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Adriano da Silva Domingos                          Masculino Pai                Não Dependente IRRF 
+        Eliana Rosa de Jesus Domingos                      Feminino  Mãe                Não Dependente IRRF 
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        01/04/2019 a 31/03/2020                                                                         
+        01/04/2020 a 31/03/2021                                                                         
+        01/04/2021 a 31/03/2022                                                                         
+
+        01/04/2022 a 31/03/2023                                                                         
+
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0030 
+
+
+------------------------------------------------------------------------
+

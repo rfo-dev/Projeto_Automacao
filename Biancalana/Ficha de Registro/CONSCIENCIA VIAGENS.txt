@@ -1,0 +1,260 @@
+
+
+
+
+                                                      Relatório de Funcionários
+
+              Empresa: 0186 - CONSCIENCIA COSMICA AGENCIA DE VIAGENS E TURISMO LTDA ME
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000002 
+
+          Nome:Eliane de Araujo 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: PRO-LABORE                  Admissão:   13/11/2000          Cargo:0006  Diretor 
+         Salário:                            Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0002
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0004  SIndicato dos Empregados no Comercio de Sao  
+
+         Dependentes IRRF:                   Exper.: 00  00                   Cond.Sindical:
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroMooca
+         Endereço: Rua Visconde de Parnaiba - de 1251/1252 a 2200/2201, 1501, Bloco 1, Apt 41 
+         Município:SAO PAULO                                   UF: SP      CEP:03164-300         DDD:        Fone: 
+         Dt.Nasc.21/04/1965    Local:4803  SAO CAETANO DO SUL                    Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: SUPERIOR COMPLETO                             Est.CiviDIVORCIADO (A)
+         Defic.Não                 Raça: BRANCA                Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R142710313           Data Emissão:   03/11/2017      CPF:045.059.178/60                CTPS: 16524     609     SP 
+          PIS114.26163.23.6                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título132399630167
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH03670201194                                 Categoria CNH:  b                       Validade: 11/09/2020 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   80-DIRETOR SEM VÍNCULO EMPREGATÍCIO 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 13/11/2000                                        Conta FGTS:                           Tipo de Admissão: 1B 
+          Ocorrência:                                                Categoria:  11-DIRETOR NÃO EMPREGADO SEM FGTS  
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0001 
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+              Empresa: 0186 - CONSCIENCIA COSMICA AGENCIA DE VIAGENS E TURISMO LTDA ME
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Miguel Bernardino DE Araujo                        Masculino Pai                Não Dependente IRRF 
+        Teresa Burgarelli De Araujo                        Feminino  Mãe                Não Dependente IRRF 
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        13/11/2000 a 12/11/2001                                                                         
+        13/11/2001 a 12/11/2002                                                                         
+        13/11/2002 a 12/11/2003                                                                         
+
+        13/11/2003 a 12/11/2004                                                                         
+        13/11/2004 a 12/11/2005                                                                         
+        13/11/2005 a 12/11/2006                                                                         
+        13/11/2006 a 12/11/2007                                                                         
+        13/11/2007 a 12/11/2008                                                                         
+        13/11/2008 a 12/11/2009                                                                         
+        13/11/2009 a 12/11/2010                                                                         
+        13/11/2010 a 12/11/2011                                                                         
+        13/11/2011 a 12/11/2012                                                                         
+        13/11/2012 a 12/11/2013                                                                         
+        13/11/2013 a 12/11/2014                                                                         
+        13/11/2014 a 12/11/2015                                                                         
+        13/11/2015 a 12/11/2016                                                                         
+
+        13/11/2016 a 12/11/2017                                                                         
+        13/11/2017 a 12/11/2018                                                                         
+        13/11/2018 a 12/11/2019                                                                         
+        13/11/2019 a 12/11/2020                                                                         
+        13/11/2020 a 12/11/2021                                                                         
+        13/11/2021 a 12/11/2022                                                                         
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0002 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+              Empresa: 0186 - CONSCIENCIA COSMICA AGENCIA DE VIAGENS E TURISMO LTDA ME
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0003 
+
+
+------------------------------------------------------------------------
+

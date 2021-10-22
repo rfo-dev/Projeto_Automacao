@@ -1,0 +1,346 @@
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0241 - OSAKA INFORMATICA LTDA ME 
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000001 
+
+          Nome:Guilherme Osaka 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: PRO-LABORE                  Admissão:   01/10/2016          Cargo:0029  Socio Gerente 
+         Salário:1.100,00                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário: 
+         Dependentes S.F.:                   H/Mês:                           Sindicato:
+
+         Dependentes IRRF:                   Exper.: 00  00                   Cond.Sindical:
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroVila Mariana 
+         Endereço: Rua Jose Antonio Coelho - ate 299/300, 300, Apto 85c 
+         Município:SAO PAULO                                   UF: SP      CEP:04011-060         DDD:        Fone: 
+         Dt.Nasc.01/03/1989    Local:4820  SAO PAULO                             Nacionalidade:                      Sexo: MASCULINO 
+
+         Dt.Chegada:               Grau Instrução: SUPERIOR COMPLETO                             Est.CiviOUTROS
+         Defic.Não                 Raça: AMARELA               Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R353660772           Data Emissão:   27/01/2007      CPF:331.485.158/89                CTPS: 077899    00403   SP 
+          PIS267.81033.92.0                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título356490500159
+         Cart.Res.:126626                      Categoria de Reservista:  Q                       Insc.INSS: 
+          CNH04714547219                                 Categoria CNH:  AB                      Validade: 02/05/2019 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS::                                                  Admissão RAIS: 
+
+         Movim.CAGED::                                               Vínculo Empregatício: 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 01/10/2016                                        Conta FGTS:                           Tipo de Admissão: 
+          Ocorrência:                                                Categoria: 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:  
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro : 46374                                     Registro Livro :39                    Registro Folha :194 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0001 
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0241 - OSAKA INFORMATICA LTDA ME 
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+
+
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        01/10/2016 a 30/09/2017                                                                         
+        01/10/2017 a 30/09/2018                                                                         
+        01/10/2018 a 30/09/2019                                                                         
+
+        01/10/2019 a 30/09/2020                                                                         
+        01/10/2020 a 30/09/2021                                                                         
+        01/10/2021 a 30/09/2022                                                                         
+        01/10/2022 a 30/09/2023                                                                         
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0002 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0241 - OSAKA INFORMATICA LTDA ME 
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000002 
+
+          Nome:Neusa Hiromi Kaminaga 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: PRO-LABORE                  Admissão:   01/10/2016          Cargo: 
+         Salário:                            Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário: 
+         Dependentes S.F.:                   H/Mês:                           Sindicato:
+
+         Dependentes IRRF:                   Exper.: 00  00                   Cond.Sindical:
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroAlto Cafezal 
+         Endereço: Rua Quinze de Novembro - de 902/903 a 1500/1501, 939 
+         Município:MARILIA                                     UF: SP      CEP:17504-000         DDD:        Fone: 
+         Dt.Nasc.02/08/1964    Local:4820  SAO PAULO                             Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: SUPERIOR COMPLETO                             Est.CiviOUTROS
+         Defic.Não                 Raça: AMARELA               Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R143444980           Data Emissão:   15/01/2014      CPF:056.256.348/23                CTPS: 28259     00026   SP 
+          PIS120.86935.32.5                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título029791640124
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH02994153353                                 Categoria CNH:  AB                      Validade: 24/01/2019 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 10-ADMISSÃO DE EMPREGADO NO 1ºEMPREGO         Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS:                                                   Conta FGTS:                           Tipo de Admissão: 1A 
+          Ocorrência:                                                Categoria: 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:01
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0003 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                        Empresa: 0241 - OSAKA INFORMATICA LTDA ME 
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+
+
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        01/10/2016 a 30/09/2017                                                                         
+        01/10/2017 a 30/09/2018                                                                         
+        01/10/2018 a 30/09/2019                                                                         
+
+        01/10/2019 a 30/09/2020                                                                         
+
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0004 
+
+
+------------------------------------------------------------------------
+

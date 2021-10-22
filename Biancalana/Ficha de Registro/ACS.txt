@@ -1,0 +1,2152 @@
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0153 - ACS Cultural Ltda - ME
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000001 
+
+          Nome:Vivian Fernandes Carregal 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   01/08/2001          Cargo:0114  Auxiliar de Ensino 
+         Salário:25,92                       Tipo Pagto.:   HORÁRIO          Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0051
+         Dependentes S.F.:                   H/Mês:  10,00                    Sindicato:
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalCONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroPinheiros
+         Endereço: Rua Nelson Antonio, 19, apto 13 
+         Município:SAO PAULO                                   UF: SP      CEP:05417-060         DDD:        Fone: 
+         Dt.Nasc.11/01/1980    Local:4820  SAO PAULO                             Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: SUPERIOR COMPLETO                             Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: BRANCA                Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R27.250.357-3        Data Emissão:                   CPF:296.145.258/94                CTPS: 057095    280     SP 
+          PIS130.63595.93.3                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título2518607401
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 01/08/2001                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0001 
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0153 - ACS Cultural Ltda - ME
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Maria Luiza Fernandes Carregal                     Feminino  Mãe                Não Dependente IRRF 
+
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        01/08/2012 a 31/07/2013       30                30/06/2014 a 29/07/2014                         
+        01/08/2013 a 31/07/2014                                                                         
+        01/08/2014 a 31/07/2015                                                                         
+
+        01/08/2015 a 31/07/2016                                                                         
+        01/08/2016 a 31/07/2017                                                                         
+        01/08/2017 a 31/07/2018                                                                         
+        01/08/2018 a 31/07/2019                                                                         
+        01/08/2019 a 31/07/2020                                                                         
+        01/08/2020 a 31/07/2021                                                                         
+        01/08/2021 a 31/07/2022                                                                         
+        01/08/2022 a 31/07/2023                                                                         
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+        151 - FERIAS PROPORCIONAIS 0,00   0,00   0,00       0,00       0,00       01/2013 12/2099 Pagamento
+
+        111 - 13O SALARIO - PARCEL 0,00   0,00   0,00       0,00       0,00       01/2013 12/2099 Pagamento
+        110 - 13O SALARIO - 1A PAR 0,00   0,00   0,00       0,00       0,00       01/2013 12/2099 Pagamento
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0002 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0153 - ACS Cultural Ltda - ME
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0003 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0153 - ACS Cultural Ltda - ME
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000007 
+
+          Nome:Lizabeth Cruz Barrese 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   01/07/2012          Cargo:0114  Auxiliar de Ensino 
+         Salário:30,96                       Tipo Pagto.:   HORÁRIO          Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0145
+         Dependentes S.F.:                   H/Mês:  21,00                    Sindicato0015  SENALBA- SIND DO EMPREG EM ENT CULTURAIS  
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalCONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroSacoma
+         Endereço: Rua Marechal Pimentel, 657, casa 07 
+         Município:SAO PAULO                                   UF: SP      CEP:04248-100         DDD:        Fone: 
+         Dt.Nasc.30/06/1963    Local:                                            Nacionalidade:  OUTROS LATINO-      Sexo: FEMININO 
+
+         Dt.Chegada: 06/03/1994    Grau Instrução: SUPERIOR COMPLETO                             Est.CiviDIVORCIADO (A)
+         Defic.Não                 Raça: BRANCA                Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          Rv1547918            Data Emissão:   03/12/2015      CPF:212.589.438/67                CTPS: 33152     00196   SP 
+          PIS128.24273.26.9                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título: 
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 01/07/2012                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro : 9620                                      Registro Livro :29                    Registro Folha :01 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0004 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0153 - ACS Cultural Ltda - ME
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        JOSEFA BARRESE BATET                               Feminino  Mãe                Não Dependente IRRF 
+
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        01/07/2012 a 30/06/2013       30                10/01/2014 a 08/02/2014                         
+        01/07/2013 a 30/06/2014       30                22/01/2015 a 20/02/2015                         
+        01/07/2014 a 30/06/2015       30                01/06/2016 a 30/06/2016                         
+
+        01/07/2015 a 30/06/2016       30                01/06/2017 a 30/06/2017                         
+        01/07/2016 a 30/06/2017       30                01/06/2018 a 30/06/2018                         
+        01/07/2017 a 30/06/2018       30                10/07/2019 a 08/08/2019                         
+        01/07/2018 a 30/06/2019       30                06/07/2020 a 04/08/2020                         
+        01/07/2019 a 30/06/2020       15                21/12/2020 a 04/01/2021                         
+        01/07/2019 a 30/06/2020       15                26/07/2021 a 09/08/2021                         
+        01/07/2020 a 30/06/2021                                                                         
+        01/07/2021 a 30/06/2022                                                                         
+        01/07/2022 a 30/06/2023                                                                         
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+        151 - FERIAS PROPORCIONAIS 0,00   0,00   0,00       0,00       0,00       07/2012 12/2099 Mensal
+        111 - 13O SALARIO - PARCEL 0,00   0,00   0,00       0,00       0,00       07/2012 12/2099 Mensal
+        110 - 13O SALARIO - 1A PAR 0,00   0,00   0,00       0,00       0,00       07/2012 12/2099 Mensal
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0005 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0153 - ACS Cultural Ltda - ME
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0006 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0153 - ACS Cultural Ltda - ME
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000010 
+
+          Nome:Antonio Carlos Aun Lima 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: PRO-LABORE                  Admissão:   07/05/2012          Cargo:0006  Diretor 
+         Salário:980,00                      Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário: 
+         Dependentes S.F.:                   H/Mês:                           Sindicato:
+
+         Dependentes IRRF:                   Exper.: 00  00                   Cond.Sindical:
+
+
+         DADOS CADASTRAIS 
+                                                                                                 Bairro: 
+         Endereço:  ,  
+         Município:                                            UF:         CEP:                  DDD:        Fone: 
+         Dt.Nasc.:             Local:                                            Nacionalidade:                      Sexo: MASCULINO 
+
+         Dt.Chegada:               Grau Instrução:                                               Est.CiviOUTROS
+         Defic.Não                 Raça:                       Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          RG:                  Data Emissão:                   CPF:                              CTPS: 
+          PIS:                                 Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título: 
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS::                                                  Admissão RAIS: 
+
+         Movim.CAGED::                                               Vínculo Empregatício: 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 07/05/2012                                        Conta FGTS:                           Tipo de Admissão: 
+          Ocorrência:                                                Categoria: 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:  
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0007 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0153 - ACS Cultural Ltda - ME
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+
+
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        07/05/2012 a 06/05/2013                                                                         
+        07/05/2013 a 06/05/2014                                                                         
+        07/05/2014 a 06/05/2015                                                                         
+
+        07/05/2015 a 06/05/2016                                                                         
+        07/05/2016 a 06/05/2017                                                                         
+        07/05/2017 a 06/05/2018                                                                         
+        07/05/2018 a 06/05/2019                                                                         
+        07/05/2019 a 06/05/2020                                                                         
+        07/05/2020 a 06/05/2021                                                                         
+        07/05/2021 a 06/05/2022                                                                         
+        07/05/2022 a 06/05/2023                                                                         
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0008 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0153 - ACS Cultural Ltda - ME
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0009 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0153 - ACS Cultural Ltda - ME
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000011 
+
+          Nome:Eduardo Prota 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: PRO-LABORE                  Admissão:   07/05/2012          Cargo:0006  Diretor 
+         Salário:980,00                      Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário: 
+         Dependentes S.F.:                   H/Mês:                           Sindicato:
+
+         Dependentes IRRF:                   Exper.: 00  00                   Cond.Sindical:
+
+
+         DADOS CADASTRAIS 
+                                                                                                 Bairro: 
+         Endereço:  ,  
+         Município:                                            UF:         CEP:                  DDD:        Fone: 
+         Dt.Nasc.:             Local:                                            Nacionalidade:                      Sexo: MASCULINO 
+
+         Dt.Chegada:               Grau Instrução:                                               Est.CiviOUTROS
+         Defic.Não                 Raça:                       Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          RG:                  Data Emissão:                   CPF:                              CTPS: 
+          PIS:                                 Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título: 
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS::                                                  Admissão RAIS: 
+
+         Movim.CAGED::                                               Vínculo Empregatício: 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 07/05/2012                                        Conta FGTS:                           Tipo de Admissão: 
+          Ocorrência:                                                Categoria: 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:  
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0010 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0153 - ACS Cultural Ltda - ME
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+
+
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        07/05/2012 a 06/05/2013                                                                         
+        07/05/2013 a 06/05/2014                                                                         
+        07/05/2014 a 06/05/2015                                                                         
+
+        07/05/2015 a 06/05/2016                                                                         
+        07/05/2016 a 06/05/2017                                                                         
+        07/05/2017 a 06/05/2018                                                                         
+        07/05/2018 a 06/05/2019                                                                         
+        07/05/2019 a 06/05/2020                                                                         
+        07/05/2020 a 06/05/2021                                                                         
+        07/05/2021 a 06/05/2022                                                                         
+        07/05/2022 a 06/05/2023                                                                         
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0011 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0153 - ACS Cultural Ltda - ME
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0012 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0153 - ACS Cultural Ltda - ME
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000012 
+
+          Nome:Sonia Maria Goncalves Faria 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: PRO-LABORE                  Admissão:   01/08/2011          Cargo:0006  Diretor 
+         Salário:980,00                      Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário: 
+         Dependentes S.F.:                   H/Mês:                           Sindicato:
+
+         Dependentes IRRF:                   Exper.: 00  00                   Cond.Sindical:
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroÁgua Branca
+         Endereço: Travessa Lorenzo Spena, 11 
+         Município:SAO PAULO                                   UF: SP      CEP:05033-100         DDD:        Fone: 
+         Dt.Nasc.:             Local:                                            Nacionalidade:                      Sexo: MASCULINO 
+
+         Dt.Chegada:               Grau Instrução:                                               Est.CiviOUTROS
+         Defic.Não                 Raça:                       Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          RG:                  Data Emissão:                   CPF:                              CTPS: 
+          PIS:                                 Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título: 
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS::                                                  Admissão RAIS: 
+
+         Movim.CAGED::                                               Vínculo Empregatício: 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 01/08/2011                                        Conta FGTS:                           Tipo de Admissão: 
+          Ocorrência:                                                Categoria: 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:  
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0013 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0153 - ACS Cultural Ltda - ME
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+
+
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        01/08/2011 a 31/07/2012                                                                         
+        01/08/2012 a 31/07/2013                                                                         
+        01/08/2013 a 31/07/2014                                                                         
+
+        01/08/2014 a 31/07/2015                                                                         
+        01/08/2015 a 31/07/2016                                                                         
+        01/08/2016 a 31/07/2017                                                                         
+        01/08/2017 a 31/07/2018                                                                         
+        01/08/2018 a 31/07/2019                                                                         
+        01/08/2019 a 31/07/2020                                                                         
+        01/08/2020 a 31/07/2021                                                                         
+        01/08/2021 a 31/07/2022                                                                         
+        01/08/2022 a 31/07/2023                                                                         
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0014 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0153 - ACS Cultural Ltda - ME
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0015 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0153 - ACS Cultural Ltda - ME
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000021 
+
+          Nome:Beatriz Olivier Garcia 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   01/09/2015          Cargo:0114  Auxiliar de Ensino 
+         Salário:25,39                       Tipo Pagto.:   HORÁRIO          Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0143
+         Dependentes S.F.:                   H/Mês:  24,00                    Sindicato0015  SENALBA- SIND DO EMPREG EM ENT CULTURAIS  
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalCONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroAgua Branca
+         Endereço: Rua Lorenzo Spena, 29, casa 11 
+         Município:SAO PAULO                                   UF: SP      CEP:05033-100         DDD:        Fone: 
+         Dt.Nasc.12/08/1994    Local:4820  SAO PAULO                             Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: SUPERIOR INCOMPLETO                           Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: BRANCA                Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R37.326.204-8        Data Emissão:   18/11/2011      CPF:442.054.638/71                CTPS: 055152    371     SP 
+          PIS210.60699.85.2                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título397369550175
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 10-ADMISSÃO DE EMPREGADO NO 1ºEMPREGO         Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 01/09/2015                                        Conta FGTS:                           Tipo de Admissão: 9A 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:01
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro : 4558                                      Registro Livro :a272                  Registro Folha :298v 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0016 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0153 - ACS Cultural Ltda - ME
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Roberval Edmilson Piva Garcia                      Masculino Pai                Não Dependente IRRF 
+        Maria Berndardete Olivier Garcia                   Feminino  Mãe                Não Dependente IRRF 
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        01/09/2015 a 31/08/2016       30                01/08/2017 a 30/08/2017                         
+        01/09/2016 a 31/08/2017       30                01/08/2018 a 30/08/2018                         
+        01/09/2017 a 31/08/2018       30                01/08/2019 a 30/08/2019                         
+
+        01/09/2018 a 31/08/2019       30                27/07/2020 a 25/08/2020                         
+        01/09/2019 a 31/08/2020       30                21/12/2020 a 19/01/2021                         
+        01/09/2020 a 31/08/2021                                                                         
+        01/09/2021 a 31/08/2022                                                                         
+        01/09/2022 a 31/08/2023                                                                         
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0017 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0153 - ACS Cultural Ltda - ME
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0018 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0153 - ACS Cultural Ltda - ME
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000023 
+
+          Nome:Giuseppa Mannino 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: PRO-LABORE                  Admissão:   01/05/2017          Cargo:0006  Diretor 
+         Salário:1.500,00                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário: 
+         Dependentes S.F.:                   H/Mês:                           Sindicato:
+
+         Dependentes IRRF:                   Exper.: 00  00                   Cond.Sindical:
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroJardim Paulista
+         Endereço: Avenida Brigadeiro Luis Antonio - de 2253 a 3139 - lado impar, 2477, Apto 91-2 
+         Município:SAO PAULO                                   UF: SP      CEP:01401-000         DDD:        Fone: 
+         Dt.Nasc.26/06/1983    Local:4820  SAO PAULO                             Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: SUPERIOR COMPLETO                             Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: PARDA                 Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R273318780           Data Emissão:   24/01/2014      CPF:214.995.778/77                CTPS: 14614     00241   SP 
+          PIS127.25921.81.5                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título219186330124
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH03381390494                                 Categoria CNH:  b                       Validade: 21/07/2004 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   80-DIRETOR SEM VÍNCULO EMPREGATÍCIO 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 01/05/2017                                        Conta FGTS:                           Tipo de Admissão: 1B 
+          Ocorrência:                                                Categoria:  11-DIRETOR NÃO EMPREGADO SEM FGTS  
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0019 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0153 - ACS Cultural Ltda - ME
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+
+
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        01/05/2017 a 30/04/2018                                                                         
+        01/05/2018 a 30/04/2019                                                                         
+        01/05/2019 a 30/04/2020                                                                         
+
+        01/05/2020 a 30/04/2021                                                                         
+        01/05/2021 a 30/04/2022                                                                         
+        01/05/2022 a 30/04/2023                                                                         
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0020 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0153 - ACS Cultural Ltda - ME
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000024 
+
+          Nome:Jenifer dos Santos Lourenco 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   17/07/2017          Cargo:0005  Secretaria 
+         Salário:1.500,00                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0555
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0015  SENALBA- SIND DO EMPREG EM ENT CULTURAIS  
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalCONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroRio Pequeno
+         Endereço: Rua George Bernardo de Lima, 63, casa 
+         Município:SAO PAULO                                   UF: SP      CEP:05388-030         DDD:        Fone: 
+         Dt.Nasc.22/04/1993    Local:4820  SAO PAULO                             Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU COMPLETO                              Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: BRANCA                Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R49.320.329-1        Data Emissão:   28/08/2014      CPF:426.199.998/63                CTPS: 052282    383     SP 
+          PIS206.86857.14.8                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título401874550191
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 17/07/2017                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro : 73718                                     Registro Livro :a221                  Registro Folha :204 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0021 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0153 - ACS Cultural Ltda - ME
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+
+
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+        14/05/2021  P3     21/05/2021  Z18                                                        
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        17/07/2017 a 16/07/2018       14                21/12/2017 a 03/01/2018                         
+        17/07/2017 a 16/07/2018       16                19/12/2018 a 03/01/2019                         
+        17/07/2018 a 16/07/2019       15                01/07/2019 a 15/07/2019                         
+
+        17/07/2018 a 16/07/2019       15                19/12/2019 a 02/01/2020                         
+        17/07/2019 a 16/07/2020       30                21/12/2020 a 19/01/2021                         
+        17/07/2020 a 16/07/2021                                                                         
+        17/07/2021 a 16/07/2022                                                                         
+        17/07/2022 a 16/07/2023                                                                         
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0022 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0153 - ACS Cultural Ltda - ME
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0023 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0153 - ACS Cultural Ltda - ME
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000030 
+
+          Nome:GABRIELLA FERREIRA BORGES 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   07/10/2021          Cargo:0114  Auxiliar de Ensino 
+         Salário:2.266,00                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0563
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0015  SENALBA- SIND DO EMPREG EM ENT CULTURAIS  
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalNÃO CONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroVila Clarice
+         Endereço: Avenida Guilherme Mankel, 51 
+         Município:SAO PAULO                                   UF: SP      CEP:05176-000         DDD:        Fone: 
+         Dt.Nasc.07/12/2002    Local:4820  SAO PAULO                             Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: SUPERIOR COMPLETO                             Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: PARDA                 Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R589358236           Data Emissão:   09/08/2019      CPF:513.685.998/93                CTPS: 5136859   9893    SP 
+          PIS213.33396.28.9                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título456527230116
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 10-ADMISSÃO DE EMPREGADO NO 1ºEMPREGO         Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 07/10/2021                                        Conta FGTS:                           Tipo de Admissão: 9A 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico: 24/09/2021          Ex. Periódico:                        Transferência:01
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0024 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0153 - ACS Cultural Ltda - ME
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        MARCELO CAVALCANTE BORGES                          Masculino Pai                Não Dependente IRRF 
+        ROSANA FERREIRA BORGES                             Feminino  Mãe                Não Dependente IRRF 
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        07/10/2021 a 06/10/2022                                                                         
+        07/10/2022 a 06/10/2023                                                                         
+
+
+
+
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0025 
+
+
+------------------------------------------------------------------------
+

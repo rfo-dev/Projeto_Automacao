@@ -1,0 +1,260 @@
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0259 - MARILENA RIVELLO ME 
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000001 
+
+          Nome:MARILENA RIVELLO ALVES  
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: PRO-LABORE                  Admissão:   01/11/2007          Cargo:0199  Socio Diretor  
+         Salário:1.100,00                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário: 
+         Dependentes S.F.:                   H/Mês:                           Sindicato:
+
+         Dependentes IRRF:                   Exper.: 00  00                   Cond.Sindical:
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroCampo Belo 
+         Endereço: Rua Joao Alvares Soares - de 1241/1242 a 1459/1460, 1323, Apto 122 
+         Município:SAO PAULO                                   UF: SP      CEP:04609-003         DDD:        Fone: 
+         Dt.Nasc.11/08/1955    Local:4820  SAO PAULO                             Nacionalidade:                      Sexo: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: SUPERIOR COMPLETO                             Est.CiviCASADO (A)
+         Defic.Não                 Raça: BRANCA                Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R79094343            Data Emissão:   25/03/2013      CPF:130.211.808/09                CTPS: 87243     419     SP 
+          PIS106.37026.44.3                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título088625330183
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH01406166785                                 Categoria CNH:  B                       Validade: 12/09/2020 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS::                                                  Admissão RAIS: 
+
+         Movim.CAGED::                                               Vínculo Empregatício: 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 01/11/2007                                        Conta FGTS:                           Tipo de Admissão: 
+          Ocorrência:                                                Categoria: 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:  
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0001 
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0259 - MARILENA RIVELLO ME 
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+
+
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        01/11/2007 a 31/10/2008                                                                         
+        01/11/2008 a 31/10/2009                                                                         
+        01/11/2009 a 31/10/2010                                                                         
+
+        01/11/2010 a 31/10/2011                                                                         
+        01/11/2011 a 31/10/2012                                                                         
+        01/11/2012 a 31/10/2013                                                                         
+        01/11/2013 a 31/10/2014                                                                         
+        01/11/2014 a 31/10/2015                                                                         
+        01/11/2015 a 31/10/2016                                                                         
+        01/11/2016 a 31/10/2017                                                                         
+        01/11/2017 a 31/10/2018                                                                         
+        01/11/2018 a 31/10/2019                                                                         
+        01/11/2019 a 31/10/2020                                                                         
+        01/11/2020 a 31/10/2021                                                                         
+        01/11/2021 a 31/10/2022                                                                         
+        01/11/2022 a 31/10/2023                                                                         
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0002 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                              Empresa: 0259 - MARILENA RIVELLO ME 
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0003 
+
+
+------------------------------------------------------------------------
+

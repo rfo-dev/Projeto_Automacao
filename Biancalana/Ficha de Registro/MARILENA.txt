@@ -1,0 +1,260 @@
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                          Empresa: 0225 -  MARILENA WOLF SPINELLI
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000001 
+
+          Nome: MARIA APARECIDA VALENTIM 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   01/11/2006          Cargo:0037  Empregada Domestica 
+         Salário:1.183,33                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0001
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato:
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.Sindical:
+
+
+         DADOS CADASTRAIS 
+                                                                                                 Bairro: 
+         Endereço:  ,  
+         Município:                                            UF:         CEP:                  DDD:        Fone: 
+         Dt.Nasc.01/01/1970    Local:                                            Nacionalidade:                      Sexo: MASCULINO 
+
+         Dt.Chegada:               Grau Instrução:                                               Est.CiviOUTROS
+         Defic.Não                 Raça:                       Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          RG:                  Data Emissão:                   CPF:303.887.848/06                CTPS: 
+          PIS209.74859.67.7                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título: 
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS::                                                  Admissão RAIS: 
+
+         Movim.CAGED::                                               Vínculo Empregatício: 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 01/11/2006                                        Conta FGTS:                           Tipo de Admissão: 
+          Ocorrência:                                                Categoria: 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:  
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0001 
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                          Empresa: 0225 -  MARILENA WOLF SPINELLI
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+
+
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        01/11/2006 a 31/10/2007                                                                         
+        01/11/2007 a 31/10/2008                                                                         
+        01/11/2008 a 31/10/2009                                                                         
+
+        01/11/2009 a 31/10/2010                                                                         
+        01/11/2010 a 31/10/2011                                                                         
+        01/11/2011 a 31/10/2012                                                                         
+        01/11/2012 a 31/10/2013                                                                         
+        01/11/2013 a 31/10/2014                                                                         
+        01/11/2014 a 31/10/2015                                                                         
+        01/11/2015 a 31/10/2016       30                02/01/2017 a 31/01/2017                         
+        01/11/2016 a 31/10/2017       30                02/01/2018 a 31/01/2018                         
+        01/11/2017 a 31/10/2018       30                02/01/2019 a 31/01/2019                         
+        01/11/2018 a 31/10/2019       30                06/01/2020 a 04/02/2020                         
+        01/11/2019 a 31/10/2020       30                04/01/2021 a 02/02/2021                         
+        01/11/2020 a 31/10/2021                                                                         
+        01/11/2021 a 31/10/2022                                                                         
+
+        01/11/2022 a 31/10/2023                                                                         
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0002 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                          Empresa: 0225 -  MARILENA WOLF SPINELLI
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0003 
+
+
+------------------------------------------------------------------------
+

@@ -1,0 +1,604 @@
+
+
+
+
+                                                      Relatório de Funcionários
+
+                          Empresa: 0302 - MF COMERCIO DE ARTIGOS DO VESTUARIO EIRELI 
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000004 
+
+          Nome:Thais Fernanda Maia 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   03/10/2016          Cargo:0030  Gerente de Loja 
+         Salário:2.214,29                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0086
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0003  Sindicato dos Empregados no Comercio de Santo  
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalCONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroVila Paraiso
+         Endereço: Av Atlantica, 304, Fundos 
+         Município:SANTO ANDRE                                 UF: SP      CEP:09060-000         DDD:        Fone: 
+         Dt.Nasc.14/01/1994    Local:4792  SANTO ANDRE                           Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU COMPLETO                              Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: BRANCA                Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R42.869.767-7        Data Emissão:   15/08/2013      CPF:405.451.378/61                CTPS: 093738    379     SP 
+          PIS207.86477.26.6                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título428628540016
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 03/10/2016                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro : 70085                                     Registro Livro :A 102                 Registro Folha :292 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0001 
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                          Empresa: 0302 - MF COMERCIO DE ARTIGOS DO VESTUARIO EIRELI 
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Claudio Maia                                       Masculino Pai                Não Dependente IRRF 
+        Tereza Celia Fernandes Maia                        Feminino  Mãe                Não Dependente IRRF 
+        LAURYN MAIA FELIX                       16/01/2018 Feminino  Filho(a)           Normal              
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+        06/04/2020  X      01/06/2020  Z5                                                         
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        03/10/2016 a 02/10/2017                                                                         
+        03/10/2017 a 02/10/2018                                                                         
+        03/10/2018 a 02/10/2019       10                20/01/2020 a 29/01/2020                         
+
+        03/10/2018 a 02/10/2019       20                08/09/2020 a 27/09/2020                         
+        03/10/2019 a 02/10/2020       30                05/07/2021 a 03/08/2021                         
+        03/10/2020 a 02/10/2021                                                                         
+        03/10/2021 a 02/10/2022                                                                         
+        03/10/2022 a 02/10/2023                                                                         
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0002 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                          Empresa: 0302 - MF COMERCIO DE ARTIGOS DO VESTUARIO EIRELI 
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0003 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                          Empresa: 0302 - MF COMERCIO DE ARTIGOS DO VESTUARIO EIRELI 
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000010 
+
+          Nome:Leonardo Vieira do Nascimento 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   06/07/2020          Cargo:0012  Vendedor 
+         Salário:1.273,54                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0213
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0003  Sindicato dos Empregados no Comercio de Santo  
+
+         Dependentes IRRF:                   Exper.: 00  00                   Cond.SindicalNÃO CONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroJardim Paranavai 
+         Endereço: Rua Andira, 373 
+         Município:MAUA                                        UF: SP      CEP:09390-550         DDD:        Fone: 
+         Dt.Nasc.07/07/1997    Local:4802  SAO BERNARDO DO CAMPO                 Nacionalidade:  BRASILEIRO             o: MASCULINO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU COMPLETO                              Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: BRANCA                Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R53.392.794-8        Data Emissão:   16/05/2019      CPF:492.953.538/70                CTPS: 007448    00427   SP 
+          PIS236.58852.41.7                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título419338370132
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 06/07/2020                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico: 11/09/2019          Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0004 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                          Empresa: 0302 - MF COMERCIO DE ARTIGOS DO VESTUARIO EIRELI 
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Antonio Marcos Vieira do Nascimento                Masculino Pai                Não Dependente IRRF 
+        Luciana da Silva Nascimento                        Feminino  Mãe                Não Dependente IRRF 
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        06/07/2020 a 05/07/2021       30                04/10/2021 a 02/11/2021                         
+        06/07/2021 a 05/07/2022                                                                         
+        06/07/2022 a 05/07/2023                                                                         
+
+
+
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0005 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                          Empresa: 0302 - MF COMERCIO DE ARTIGOS DO VESTUARIO EIRELI 
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000011 
+
+          Nome:BRENDA QUINTANILHA SILVA 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   08/10/2021          Cargo:0200  Vendedora 
+         Salário:1.273,54                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0045
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0003  Sindicato dos Empregados no Comercio de Santo  
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalNÃO CONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroCampestre
+         Endereço: Avenida Industrial, 1600, APTO 68 TORRE 3 
+         Município:SANTO ANDRE                                 UF: SP      CEP:09080-501         DDD:        Fone: 
+         Dt.Nasc.18/08/2002    Local:4820  SAO PAULO                             Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU COMPLETO                              Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: PARDA                 Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R38498440X           Data Emissão:   17/02/2016      CPF:484.617.518/92                CTPS: 4846175   1892    SP 
+          PIS268.88811.11.3                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título464180800159
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 08/10/2021                                        Conta FGTS:                           Tipo de Admissão: 1B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico: 05/10/2021          Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0006 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                          Empresa: 0302 - MF COMERCIO DE ARTIGOS DO VESTUARIO EIRELI 
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        ALESSANDRA MARIA QUINTANILHA                       Feminino  Mãe                Não Dependente IRRF 
+        ODIRLEI OLIVEIRA DA SILVA                          Masculino Pai                Não Dependente IRRF 
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        08/10/2021 a 07/10/2022                                                                         
+        08/10/2022 a 07/10/2023                                                                         
+
+
+
+
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0007 
+
+
+------------------------------------------------------------------------
+

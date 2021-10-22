@@ -1,0 +1,862 @@
+
+
+
+
+                                                      Relatório de Funcionários
+
+                    Empresa: 0333 - ATELIE DOLCE RICORDO COMERCIO DE CHOCOLATES LTDA
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000001 
+
+          Nome:Rosana Cristina Dias Fernandes  
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: PRO-LABORE                  Admissão:   15/01/2020          Cargo:0199  Socio Diretor  
+         Salário:1.100,00                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário: 
+         Dependentes S.F.:                   H/Mês:                           Sindicato:
+
+         Dependentes IRRF:                   Exper.: 00  00                   Cond.Sindical:
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroVila Leopoldina
+         Endereço: Rua Belchior de Azevedo, 156, 12 
+         Município:SAO PAULO                                   UF: SP      CEP:05089-030         DDD:        Fone: 
+         Dt.Nasc.18/04/1968    Local:                                            Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: SUPERIOR COMPLETO                             Est.CiviCASADO (A)
+         Defic.Não                 Raça: BRANCA                Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          RG:                  Data Emissão:                   CPF:081.602.228/31                CTPS: 
+          PIS121.57858.70.0                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título: 
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS::                                                  Admissão RAIS: 
+
+         Movim.CAGED::                                               Vínculo Empregatício: 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS:                                                   Conta FGTS:                           Tipo de Admissão: 0 
+          Ocorrência:                                                Categoria:  11-DIRETOR NÃO EMPREGADO SEM FGTS  
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:00
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0001 
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                    Empresa: 0333 - ATELIE DOLCE RICORDO COMERCIO DE CHOCOLATES LTDA
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+
+
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        15/01/2020 a 14/01/2021                                                                         
+        15/01/2021 a 14/01/2022                                                                         
+        15/01/2022 a 14/01/2023                                                                         
+
+
+
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0002 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                    Empresa: 0333 - ATELIE DOLCE RICORDO COMERCIO DE CHOCOLATES LTDA
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000002 
+
+          Nome:Lucas Dias Fernandes  
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: PRO-LABORE                  Admissão:   15/01/2020          Cargo:0199  Socio Diretor  
+         Salário:1.100,00                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário: 
+         Dependentes S.F.:                   H/Mês:                           Sindicato:
+
+         Dependentes IRRF:                   Exper.: 00  00                   Cond.Sindical:
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroVila Leopoldina
+         Endereço: Rua Belchior de Azevedo, 156, 12 
+         Município:SAO PAULO                                   UF: SP      CEP:05089-030         DDD:        Fone: 
+         Dt.Nasc.05/08/1994    Local:                                            Nacionalidade:  BRASILEIRO             o: MASCULINO 
+
+         Dt.Chegada:               Grau Instrução: SUPERIOR COMPLETO                             Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: BRANCA                Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          RG:                  Data Emissão:                   CPF:395.841.188/62                CTPS: 
+          PIS268.02248.55.5                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título: 
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS::                                                  Admissão RAIS: 
+
+         Movim.CAGED::                                               Vínculo Empregatício: 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS:                                                   Conta FGTS:                           Tipo de Admissão: 0 
+          Ocorrência:                                                Categoria:  11-DIRETOR NÃO EMPREGADO SEM FGTS  
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:00
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0003 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                    Empresa: 0333 - ATELIE DOLCE RICORDO COMERCIO DE CHOCOLATES LTDA
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+
+
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        15/01/2020 a 14/01/2021                                                                         
+        15/01/2021 a 14/01/2022                                                                         
+        15/01/2022 a 14/01/2023                                                                         
+
+
+
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0004 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                    Empresa: 0333 - ATELIE DOLCE RICORDO COMERCIO DE CHOCOLATES LTDA
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000003 
+
+          Nome:Adriano Cavalcante Dias  
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   02/03/2020          Cargo:0080  Vendedor 
+         Salário:1.392,00                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0009
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0033  Sind ind de produto de cacau, chocolates, balas  
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.Sindical:
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroVila Joao Batista 
+         Endereço: Rua Domingos Vega, 256 
+         Município:SAO PAULO                                   UF: SP      CEP:02837-000         DDD:        Fone: 
+         Dt.Nasc.23/05/1985    Local:3137  QUIJINGUE                             Nacionalidade:  BRASILEIRO             o: MASCULINO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU COMPLETO                              Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: PARDA                 Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R0996620192          Data Emissão:   06/06/2013      CPF:030.014.015/08                CTPS: 4139753   00020   BA 
+          PIS161.68710.56.7                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título: 
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 02/03/2020                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0005 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                    Empresa: 0333 - ATELIE DOLCE RICORDO COMERCIO DE CHOCOLATES LTDA
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Agapito Dias Teixeira                              Masculino Pai                Não Dependente IRRF 
+        Joana Cavalcante dos Reis                          Feminino  Mãe                Não Dependente IRRF 
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        02/03/2020 a 01/03/2021       20                23/04/2021 a 12/05/2021                         
+        02/03/2020 a 01/03/2021       10                                                                
+        02/03/2021 a 01/03/2022                                                                         
+
+        02/03/2022 a 01/03/2023                                                                         
+
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0006 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                    Empresa: 0333 - ATELIE DOLCE RICORDO COMERCIO DE CHOCOLATES LTDA
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000005 
+
+          Nome:Cristiane oliveira Freitas  
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   01/07/2021          Cargo:0012  Vendedor 
+         Salário:1.392,00                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0045
+         Dependentes S.F.:                   H/Mês:  206,00                   Sindicato0022  Sindicato do Comercio Varejista de Generos  
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalNÃO CONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroSão João
+         Endereço: Rua Violeta, 74 
+         Município:ITAPEVI                                     UF: SP      CEP:06654-806         DDD:        Fone: 
+         Dt.Nasc.31/07/1995    Local:4645  OSASCO                                Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU COMPLETO                              Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: BRANCA                Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R49.890040X          Data Emissão:   08/10/2010      CPF:237.498.948/84                CTPS: 024510    00409   SP 
+          PIS237.80016.70.9                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título414812910132
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 01/07/2021                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico: 28/06/2021          Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0007 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                    Empresa: 0333 - ATELIE DOLCE RICORDO COMERCIO DE CHOCOLATES LTDA
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Francisco Joao Freitas                             Masculino Pai                Não Dependente IRRF 
+        Eliane Oliveira Freitas                            Feminino  Mãe                Não Dependente IRRF 
+        Valentina Oliveira Freitas Zanini                  Feminino  Filho(a)           Normal              
+        Joaquim Oliveira Freitas Zanini                    Masculino Filho(a)           Normal              
+        Isabella Oliveira da Silva                         Masculino Filho(a)           Normal              
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        01/07/2021 a 30/06/2022                                                                         
+        01/07/2022 a 30/06/2023                                                                         
+
+
+
+
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0008 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                    Empresa: 0333 - ATELIE DOLCE RICORDO COMERCIO DE CHOCOLATES LTDA
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000006 
+
+          Nome:AMANDA SANTOS DOS REIS  
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   14/09/2021          Cargo:0012  Vendedor 
+         Salário:1.392,00                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0552
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0022  Sindicato do Comercio Varejista de Generos  
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalNÃO CONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroJardim Tucunduva
+         Endereço: Rua Leocádia Gonçalves Barreto Tucunduva, 47 
+         Município:CARAPICUIBA                                 UF: SP      CEP:06317-240         DDD:        Fone: 
+         Dt.Nasc.21/06/2001    Local:4379  CARAPICUIBA                           Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU COMPLETO                              Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: BRANCA                Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R383478649           Data Emissão:   15/07/2016      CPF:469.476.778/07                CTPS: 469476    7807    SP 
+          PIS140.20207.78.6                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título438507260167
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 14/09/2021                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico: 06/09/2021          Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0009 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                    Empresa: 0333 - ATELIE DOLCE RICORDO COMERCIO DE CHOCOLATES LTDA
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        PAULO HENRIQUE DOS REIS                            Masculino Pai                Não Dependente IRRF 
+        LUCIANA PRATES DOS SANTOS                          Feminino  Mãe                Não Dependente IRRF 
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        14/09/2021 a 13/09/2022                                                                         
+        14/09/2022 a 13/09/2023                                                                         
+
+
+
+
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0010 
+
+
+------------------------------------------------------------------------
+

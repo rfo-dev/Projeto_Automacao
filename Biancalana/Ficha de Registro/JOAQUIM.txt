@@ -1,0 +1,518 @@
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                            Empresa: 0337 - EMPORIO JOAQUIM LTDA
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000003 
+
+          Nome:Thais Costa Asevedo 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   08/10/2020          Cargo:0020  Supervisor de Loja 
+         Salário:1.818,66                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0015
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0022  Sindicato do Comercio Varejista de Generos  
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalNÃO CONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroJardim Mitsutani 
+         Endereço: Rua Cabeceiras de Basto, 90 
+         Município:SAO PAULO                                   UF: SP      CEP:05791-040         DDD:        Fone: 
+         Dt.Nasc.30/01/1996    Local:1820  PEDRO II                              Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU COMPLETO                              Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: PARDA                 Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R52885665-0          Data Emissão:   28/02/2015      CPF:465.526.458/64                CTPS: 068144    00401   SP 
+          PIS267.33897.00.6                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título409196880167
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 08/10/2020                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico: 05/10/2020          Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro : 45770                                     Registro Livro :A45                   Registro Folha :114-v 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0001 
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                            Empresa: 0337 - EMPORIO JOAQUIM LTDA
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Antonia Hercilia Costa Asevedo                     Feminino  Mãe                Não Dependente IRRF 
+        Edinaldo Costa Asevedo                             Masculino Pai                Não Dependente IRRF 
+        Miguel Asevedo Silva                    27/10/2018 Masculino Pai                Normal              
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        08/10/2020 a 07/10/2021                                                                         
+        08/10/2021 a 07/10/2022                                                                         
+        08/10/2022 a 07/10/2023                                                                         
+
+
+
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0002 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                            Empresa: 0337 - EMPORIO JOAQUIM LTDA
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000005 
+
+          Nome:Ieda Fernandes de Souza  
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   17/12/2020          Cargo:0209  ATENDENTE DE LOJA I 
+         Salário:1.643,00                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0015
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0022  Sindicato do Comercio Varejista de Generos  
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.SindicalNÃO CONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroJardim São Luís
+         Endereço: Rua José Joaquim Esteves, 92 
+         Município:SAO PAULO                                   UF: SP      CEP:05813-030         DDD:        Fone: 
+         Dt.Nasc.14/07/1993    Local:4820  SAO PAULO                             Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU COMPLETO                              Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: BRANCA                Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R372293992           Data Emissão:   26/01/2015      CPF:430.517.938/50                CTPS: 46545     368     SP 
+          PIS207.30237.45.6                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título390319120116
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 17/12/2020                                        Conta FGTS:                           Tipo de Admissão: 9B 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0003 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                            Empresa: 0337 - EMPORIO JOAQUIM LTDA
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Simone Fernandes de Souza                          Feminino  Mãe                Não Dependente IRRF 
+
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        17/12/2020 a 16/12/2021       30                03/08/2021 a 01/09/2021                         
+        17/12/2021 a 16/12/2022                                                                         
+        17/12/2022 a 16/12/2023                                                                         
+
+
+
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0004 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                            Empresa: 0337 - EMPORIO JOAQUIM LTDA
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000007 
+
+          Nome:JENIFER MAYARA DOS SANTOS SOUZA 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   05/10/2021          Cargo:9922  Atendente de Loja  
+         Salário:7,47                        Tipo Pagto.:   HORÁRIO          Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0562
+         Dependentes S.F.:                   H/Mês:  100,00                   Sindicato0022  Sindicato do Comercio Varejista de Generos  
+
+         Dependentes IRRF:                   Exper.: 45  45                   Cond.Sindical:
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroJardim São Luís
+         Endereço: Rua José Joaquim Esteves, 205 
+         Município:SAO PAULO                                   UF: SP      CEP:05813-030         DDD:        Fone: 
+         Dt.Nasc.31/03/2003    Local:4820  SAO PAULO                             Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU COMPLETO                              Est.CiviSOLTEIRO (A)
+         Defic.Não                 Raça: NEGRA                 Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R384264591           Data Emissão:   06/10/2016      CPF:359.454.328/57                CTPS: 027319    00463   SP 
+          PIS220.04384.27.0                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título: 
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 10-ADMISSÃO DE EMPREGADO NO 1ºEMPREGO         Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 05/10/2021                                        Conta FGTS:                           Tipo de Admissão: 9A 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:01
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro : 229943                                    Registro Livro :300                   Registro Folha :012 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0005 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                            Empresa: 0337 - EMPORIO JOAQUIM LTDA
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        LUCIANO DOS SANTOS SOUZA                           Masculino Pai                Não Dependente IRRF 
+        PATRICIA DOS SANTOS BARBOSA                        Feminino  Mãe                Não Dependente IRRF 
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        05/10/2021 a 04/10/2022                                                                         
+        05/10/2022 a 04/10/2023                                                                         
+
+
+
+
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 08/10/2021                                                                                          Página: 0006 
+
+
+------------------------------------------------------------------------
+

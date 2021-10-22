@@ -1,0 +1,260 @@
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                          Empresa: 0014 - Cristina Martha Silva Ricciopo
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000001 
+
+          Nome:Iris Maria Esteves Lopes 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: C.L.T.                      Admissão:   01/11/2006          Cargo:0010  Recepcionista 
+         Salário:1.220,26                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0003
+         Dependentes S.F.: 1                 H/Mês:  220,00                   Sindicato0007  Sindicato Empregados Estab Serv Saude de Sao  
+
+         Dependentes IRRF:                   Exper.: 00  00                   Cond.SindicalCONTRIBUI
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroJardim Caiema
+         Endereço: Rua Sant ana, 185 
+         Município:DIADEMA                                     UF: SP      CEP:09941-350         DDD:11      Fone: 32831082 
+         Dt.Nasc.12/05/1978    Local:2038  QUIXERAMOBIM                          Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: 2° GRAU INCOMPLETO                            Est.CiviCASADO (A)
+         Defic.Não                 Raça:                       Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R322048497           Data Emissão:                   CPF:224.718.378/67                CTPS: 0025245   00048   CE 
+          PIS206.62295.12.3                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título: 
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH:                                           Categoria CNH:                          Validade: 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 10-ADMISSÃO DE EMPREGADO NO 1ºEMPREGO         Vínculo Empregatício:   15-TRAB.URB.VINC.EMPREG.PESSOA FÍSICA 
+         Forma Pagto.: DINHEIRO                                      Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 01/11/2006                                        Conta FGTS:                           Tipo de Admissão: 9A 
+          Ocorrência:                                                Categoria:  01-EMPREGADO 
+
+          Registr02                  Ex. Médico: 01/11/2007          Ex. Periódico:                        Transferência:01
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 07/10/2021                                                                                          Página: 0001 
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                          Empresa: 0014 - Cristina Martha Silva Ricciopo
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        Julia Esteves Martins                   11/07/2007 Feminino  Filho(a)           Normal              
+
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+        001    CESTA BASICA                                        Vale Alimentação   59,50      0,00      
+        012    CESTA BASICA                                        Vale Alimentação   0,00       0,00      
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        01/11/2006 a 31/10/2007                                                                         
+        01/11/2007 a 31/10/2008                                                                         
+        01/11/2008 a 31/10/2009                                                                         
+
+        01/11/2009 a 31/10/2010       30                01/07/2010 a 30/07/2010                         
+        01/11/2010 a 31/10/2011                                                                         
+        01/11/2011 a 31/10/2012                                                                         
+        01/11/2012 a 31/10/2013                                                                         
+        01/11/2013 a 31/10/2014                                                                         
+        01/11/2014 a 31/10/2015                                                                         
+        01/11/2015 a 31/10/2016                                                                         
+        01/11/2016 a 31/10/2017                                                                         
+        01/11/2017 a 31/10/2018                                                                         
+        01/11/2018 a 31/10/2019                                                                         
+        01/11/2019 a 31/10/2020                                                                         
+        01/11/2020 a 31/10/2021                                                                         
+        01/11/2021 a 31/10/2022                                                                         
+
+        01/11/2022 a 31/10/2023                                                                         
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 07/10/2021                                                                                          Página: 0002 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                          Empresa: 0014 - Cristina Martha Silva Ricciopo
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 07/10/2021                                                                                          Página: 0003 
+
+
+------------------------------------------------------------------------
+

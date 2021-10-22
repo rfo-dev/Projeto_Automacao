@@ -1,0 +1,518 @@
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                          Empresa: 0105 - Clinica Medica M V R SS Ltda
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000001 
+
+          Nome:Luciana Abdallah Azar Abdou 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: PRO-LABORE                  Admissão:   13/05/2009          Cargo:0199  Socio Diretor  
+         Salário:1.100,00                    Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0002
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0002  SINDICATO DOS EMPREGADOS NA SAUDE 
+
+         Dependentes IRRF:                   Exper.: 00  00                   Cond.Sindical:
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroParaiso
+         Endereço: Rua Afonso de Freitas - de 401/402 ao fim, 649, Apto 121 
+         Município:SAO PAULO                                   UF: SP      CEP:04006-052         DDD:        Fone: 
+         Dt.Nasc.04/10/1964    Local:4820  SAO PAULO                             Nacionalidade:  BRASILEIRO             o: FEMININO 
+
+         Dt.Chegada:               Grau Instrução: SUPERIOR COMPLETO                             Est.CiviCASADO (A)
+         Defic.Não                 Raça: BRANCA                Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R162266765           Data Emissão:   01/06/2005      CPF:059.362.558/75                CTPS: 87388     050     SP 
+          PIS125.00750.14.2                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título007365090183
+         Cart.Res.:                            Categoria de Reservista:                          Insc.INSS: 
+          CNH03409249256                                 Categoria CNH:  B                       Validade: 07/11/2019 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 13/05/2009                                        Conta FGTS:                           Tipo de Admissão: 1A 
+          Ocorrência:                                                Categoria:  11-DIRETOR NÃO EMPREGADO SEM FGTS  
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 07/10/2021                                                                                          Página: 0001 
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                          Empresa: 0105 - Clinica Medica M V R SS Ltda
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        SALUA BLOUDANI AZAR                                Feminino  Mãe                Não Dependente IRRF 
+        ABDALLAH ISSA AZAR                                 Masculino Pai                Não Dependente IRRF 
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        13/05/2009 a 12/05/2010                                                                         
+        13/05/2010 a 12/05/2011                                                                         
+        13/05/2011 a 12/05/2012                                                                         
+
+        13/05/2012 a 12/05/2013                                                                         
+        13/05/2013 a 12/05/2014                                                                         
+        13/05/2014 a 12/05/2015                                                                         
+        13/05/2015 a 12/05/2016                                                                         
+        13/05/2016 a 12/05/2017                                                                         
+        13/05/2017 a 12/05/2018                                                                         
+        13/05/2018 a 12/05/2019                                                                         
+        13/05/2019 a 12/05/2020                                                                         
+        13/05/2020 a 12/05/2021                                                                         
+        13/05/2021 a 12/05/2022                                                                         
+        13/05/2022 a 12/05/2023                                                                         
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 07/10/2021                                                                                          Página: 0002 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                          Empresa: 0105 - Clinica Medica M V R SS Ltda
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 07/10/2021                                                                                          Página: 0003 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                          Empresa: 0105 - Clinica Medica M V R SS Ltda
+
+
+         IDENTIFICAÇÃO DO FUNCIONÁRIO 
+
+        Código:000002 
+
+          Nome:Chafi Abdou 
+
+
+         DADOS PARA CÁLCULO 
+
+         Regime: PRO-LABORE                  Admissão:   13/05/2009          Cargo:0199  Socio Diretor  
+         Salário:                            Tipo Pagto.:   MENSAL           Local: 
+          C.Custo:                           C.Custo Contábil : -  
+
+         Condução:                     Horário:0002
+         Dependentes S.F.:                   H/Mês:  220,00                   Sindicato0002  SINDICATO DOS EMPREGADOS NA SAUDE 
+
+         Dependentes IRRF:                   Exper.: 00  00                   Cond.Sindical:
+
+
+         DADOS CADASTRAIS 
+                                                                                                 BairroParaiso
+         Endereço: Rua Afonso de Freitas - de 401/402 ao fim, 649, Apto 121 
+         Município:SAO PAULO                                   UF: SP      CEP:04006-052         DDD:        Fone: 
+         Dt.Nasc.14/04/1959    Local:4820  SAO PAULO                             Nacionalidade:  BRASILEIRO             o: MASCULINO 
+
+         Dt.Chegada:               Grau Instrução: SUPERIOR COMPLETO                             Est.CiviCASADO (A)
+         Defic.Não                 Raça: BRANCA                Cabelos:                          Olhos: 
+         Altura:                   Peso:                       Sinais: 
+
+          R96755945            Data Emissão:   01/06/2005      CPF:037.358.868/25                CTPS: 
+          PIS117.07417.27.4                    Data PIS:                           Banco PIS:              Agência PIS: 
+
+         Título007601830124
+         Cart.Res.:693154                      Categoria de Reservista:                          Insc.INSS: 
+          CNH03249730565                                 Categoria CNH:  B                       Validade: 13/05/2019 
+
+
+         DADOS COMPLEMENTARES 
+
+         Sit.RAIS:-ATIVO POR TODO ANO                                Admissão RAIS: 
+
+         Movim.CAGED:: 20-ADMISSÃO DE EMPREGADO C/EMPREGO ANT.       Vínculo Empregatício:   10-TRAB.URB.VINC.EMPREG.PESSOA JURÍDICA 
+         Forma Pagto.:                                               Agência: 
+
+         Banco:                                                      Conta Corrente: 
+         Opc.FGTS: 13/05/2009                                        Conta FGTS:                           Tipo de Admissão: 1B 
+          Ocorrência:                                                Categoria:  11-DIRETOR NÃO EMPREGADO SEM FGTS  
+
+          Registro:                  Ex. Médico:                     Ex. Periódico:                        Transferência:02
+          Chapeira:                  Ponto:N                         Possui Doença Crônica :   0 
+          Hor.Div.:
+
+         Número Registro :                                           Registro Livro :                      Registro Folha : 
+          Observ.:
+
+
+          DADOS RESCISÓRIOS
+
+          Competência: /                                             Movim.CAGED: 
+
+          Data:                                                        Movim. FGTS: 
+          Causa:
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 07/10/2021                                                                                          Página: 0004 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                          Empresa: 0105 - Clinica Medica M V R SS Ltda
+
+
+          DEPENDENTES
+
+        Nome                                               Nascimento    Sexo        Parentesco              Situação 
+
+        LEILA BOUTROS ABDOU                                Feminino  Mãe                Não Dependente IRRF 
+        YOUSSEF CHAFIC ABDOU                               Masculino Pai                Não Dependente IRRF 
+
+
+
+
+
+
+          BENEFÍCIOS
+
+        Código   Descrição                                                         Tipo                    Valor Tit.    Valor Dep. 
+
+
+
+
+
+
+
+
+
+          AFASTAMENTOS
+
+        Afastamento    Motivo    Retorno       Código    Estabilidade  Observação 
+
+
+
+
+
+
+
+
+
+          FÉRIAS
+
+        Período Aquisitivo             Faltas  Gozo  Abono   L1  L2  Período de Gozo               Período de Abono 
+        13/05/2009 a 12/05/2010                                                                         
+        13/05/2010 a 12/05/2011                                                                         
+        13/05/2011 a 12/05/2012                                                                         
+
+        13/05/2012 a 12/05/2013                                                                         
+        13/05/2013 a 12/05/2014                                                                         
+        13/05/2014 a 12/05/2015                                                                         
+        13/05/2015 a 12/05/2016                                                                         
+        13/05/2016 a 12/05/2017                                                                         
+        13/05/2017 a 12/05/2018                                                                         
+        13/05/2018 a 12/05/2019                                                                         
+        13/05/2019 a 12/05/2020                                                                         
+        13/05/2020 a 12/05/2021                                                                         
+        13/05/2021 a 12/05/2022                                                                         
+        13/05/2022 a 12/05/2023                                                                         
+
+
+          CÁLCULOS PROGRAMADOS
+
+        Evento                             Refer.  Percen. Valor         Mínimo          Máximo        Início    Final     Tipo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 07/10/2021                                                                                          Página: 0005 
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+                                                      Relatório de Funcionários
+
+                                          Empresa: 0105 - Clinica Medica M V R SS Ltda
+
+
+          OCORRÊNCIAS
+
+        Código Descrição                               Complemento                                         Data Inicial  Data Final 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Data de Emissão: 07/10/2021                                                                                          Página: 0006 
+
+
+------------------------------------------------------------------------
+
