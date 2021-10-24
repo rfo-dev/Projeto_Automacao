@@ -1,4 +1,5 @@
 import os
+from typing import Tuple
 import xlsxwriter 
 import fitz
 import linecache
@@ -41,8 +42,8 @@ aTipoPgto = []
 aNacionalidade = []
 aEscolaridade = []
 aSexo = []
-
-
+aEmpresaLista = []
+totalArquivos = []
 row = 0
 column = 0
 
@@ -53,7 +54,7 @@ for file in os.listdir("./Biancalana/Ficha de Registro"):
         
 for i in range(len(arquivoTXT)):
     arquivo = open( arquivoTXT[i], 'r' )
-    
+    cont = 0
     for linha in arquivo:
         valores = linha.split()
         juntos=  ' '.join(valores)
@@ -80,11 +81,13 @@ for i in range(len(arquivoTXT)):
         if (posicao != -1):
             nome = juntos[posicao+5:45]
             aNome.append(nome)
+            cont+=1
         
         if (posicaoEmpresa != -1):    
             empresa = juntos[posicaoEmpresa+8:posicaoEmpresa+60]
-            aEmpresa.append(empresa) 
             
+            #if empresa not in aEmpresa:
+                #aEmpresa.append(empresa) 
             
         if (posicaoCod != -1):
             codigo = juntos[posicaoCod+7:13]
@@ -97,13 +100,19 @@ for i in range(len(arquivoTXT)):
         if (posicaoSalario != -1):
             salario = juntos[posicaoSalario+8:16]
             if (any(chr.isdigit() for chr in salario)):
+                salario = salario.replace("Ti", "")
+                salario = salario.replace("Tip", "")
+                salario = salario.replace("T", "")
                 aSalario.append(salario)
             else:
                 aSalario.append("VAZIO")
                 
         if (posicaoAdmissao != -1):
-            admissao = juntos[posicaoAdmissao+9:38]
+            admissao = juntos[posicaoAdmissao+9:39]
             admissao = admissao.replace("Ca","")
+            admissao = admissao.replace("r","")
+            admissao.lstrip()
+            admissao.rstrip()
             if len(admissao) != 0 :
                 aAdmissao.append(admissao)
             
@@ -158,63 +167,102 @@ for i in range(len(arquivoTXT)):
                 aRg.append("VAZIO")    
                  
         if (posicaoTipoPgto != -1):
-            tipopgto = juntos[posicaoTipoPgto+7:15]
+            tipopgto = juntos[posicaoTipoPgto+13:posicaoTipoPgto+20]
             aTipoPgto.append(tipopgto)        
             
         if (posicaoCtps != -1):
-            ctps = juntos[posicaoCtps+7:15]
+            ctps = juntos[posicaoCtps+6:posicaoCtps+25]
             aCtps.append(ctps)  
-            
+  
         if (posicaoNacionalidade != -1):
-            nacionalidade = juntos[posicaoNacionalidade+7:15]
-            aNacionalidade.append(nacionalidade)         
-            
+            nacionalidade = juntos[posicaoNacionalidade+15:posicaoNacionalidade+26]
+            nacionalidade = nacionalidade.replace("Sexo: MASCU","")
+            nacionalidade = nacionalidade.replace("Sexo: FEMIN","")
+            if nacionalidade == '':
+                aNacionalidade.append("VAZIO")
+            else:    
+                aNacionalidade.append(nacionalidade)  
+                  
         if (posicaoEscolaridade != -1):
-            escolaridade = juntos[posicaoEscolaridade+7:15]
-            aEscolaridade.append(escolaridade)       
+            escolaridade = juntos[posicaoEscolaridade+15:posicaoEscolaridade+33]
+            escolaridade = escolaridade.replace("Est.CiviOUTROS", "")
+            escolaridade = escolaridade.replace("INCOMPLE","INCOMPLETO")
+            escolaridade = escolaridade.replace("INCOMPLET","INCOMPLETO")
+            if escolaridade == " ":
+                aEscolaridade.append("VAZIO")
+            else:    
+                aEscolaridade.append(escolaridade)       
             
         if (posicaoSexo != -1):
-            sexo = juntos[posicaoSexo+7:15]
-            aSexo.append(sexo)       
-
+            sexo = juntos[posicaoSexo+29:posicaoSexo+45]
+            if len(sexo) < 3:
+                sexo = juntos[posicaoSexo+20:posicaoSexo+55]
+                sexo = sexo.replace("Sexo:", "")
+                sexo = sexo.replace(" Sexo:", "")
+                sexo = sexo.replace("S", "")
+                sexo = sexo.replace(" Sexo: ", "")
+                aSexo.append(sexo)
+            else:    
+                aSexo.append(sexo)
+                         
+    x = 0        
+    while x < cont:
+        aEmpresa.append(empresa)  
+        x+=1
+    
     arquivo.close()
 
 workbook = xlsxwriter.Workbook("CadFunc.xlsx") 
 worksheet = workbook.add_worksheet()
 row = 0
 for i in range(len(aNome)):
-    worksheet.write(row + 1, column, aNome[i]) 
-    worksheet.write(row + 1, column + 1,aCodigo[i]) 
-    worksheet.write(row + 1, column + 2,aRegime[i]) 
-    worksheet.write(row + 1, column + 3,aSalario[i]) 
-    worksheet.write(row + 1, column + 4,aAdmissao[i]) 
-    worksheet.write(row + 1, column + 5,aCargo[i])
-    worksheet.write(row + 1, column + 6,aEstCivil[i])  
-    worksheet.write(row + 1, column + 7,aNascimento[i]) 
-    worksheet.write(row + 1, column + 8,aTitulo[i]) 
-    worksheet.write(row + 1, column + 9,aPis[i]) 
-    worksheet.write(row + 1, column + 10,aCpf[i]) 
-    worksheet.write(row + 1, column + 11,aRg[i]) 
-    row += 1    
-worksheet.write(0, 0, "Nome") 
-worksheet.write(0, 1, "Codigo")   
-worksheet.write(0, 2, "Regime Contratação")   
-worksheet.write(0, 3, "Salario")  
-worksheet.write(0, 4, "Admissão")    
-worksheet.write(0, 5, "Cargo")   
-worksheet.write(0, 6, "Estado Civil")   
-worksheet.write(0, 7, "Data de Nascimento")   
-worksheet.write(0, 8, "Titulo")  
-worksheet.write(0, 9, "PIS") 
-worksheet.write(0, 10, "CPF")     
-worksheet.write(0, 11, "RG")    
+    worksheet.write(row + 1, column, aEmpresa[i]) 
+    worksheet.write(row + 1, column + 1, aNome[i]) 
+    worksheet.write(row + 1, column + 2,aCodigo[i]) 
+    worksheet.write(row + 1, column + 3,aRegime[i]) 
+    worksheet.write(row + 1, column + 4,aSalario[i]) 
+    worksheet.write(row + 1, column + 5,aTipoPgto[i]) 
+    worksheet.write(row + 1, column + 6,aAdmissao[i]) 
+    worksheet.write(row + 1, column + 7,aCargo[i])
+    worksheet.write(row + 1, column + 8,aEstCivil[i])  
+    worksheet.write(row + 1, column + 9,aNascimento[i]) 
+    worksheet.write(row + 1, column + 10,aTitulo[i]) 
+    worksheet.write(row + 1, column + 11,aPis[i]) 
+    worksheet.write(row + 1, column + 12,aCpf[i]) 
+    worksheet.write(row + 1, column + 13,aRg[i]) 
+    worksheet.write(row + 1, column + 14,aCtps[i]) 
+    worksheet.write(row + 1, column + 15,aNacionalidade[i]) 
+    worksheet.write(row + 1, column + 16,aEscolaridade[i]) 
+    worksheet.write(row + 1, column + 17,aSexo[i]) 
+    row += 1
+worksheet.write(0, 0, "Empresa")        
+worksheet.write(0, 1, "Nome") 
+worksheet.write(0, 2, "Codigo")   
+worksheet.write(0, 3, "Regime Contratação")   
+worksheet.write(0, 4, "Salario")  
+worksheet.write(0, 5, "Tipo Pagamento")  
+worksheet.write(0, 6, "Admissão")    
+worksheet.write(0, 7, "Cargo")   
+worksheet.write(0, 8, "Estado Civil")   
+worksheet.write(0, 9, "Data de Nascimento")   
+worksheet.write(0, 10, "Titulo")  
+worksheet.write(0, 11, "PIS") 
+worksheet.write(0, 12, "CPF")     
+worksheet.write(0, 13, "RG")    
+worksheet.write(0, 14, "CTPS")   
+worksheet.write(0, 15, "Nacionalidade")  
+worksheet.write(0, 16, "Escolaridade")  
+worksheet.write(0, 17, "Sexo")  
 workbook.close()     
 
 #print (len(aAdmissao))
+#print (aAdmissao)
 #print (len(aNome))
 #print (len(aCodigo))
 #print (len(aRegime))
 #print (len(aSalario))
+#print(aSalario)
+#print(aCargo)
 #print (len(aCargo))
 #print (len(aEstCivil))
 #print (len(aNascimento))
@@ -224,6 +272,15 @@ workbook.close()
 #print (len(aRg))
 #print (aRg)
 #print(aEmpresa)
-
+#print(len(aEmpresa))
 #print (arquivo)
-
+#print(len(listEmpresas))
+#print (aTipoPgto)
+#print(len(aTipoPgto))
+#print(aCtps)
+#print(aNacionalidade)
+#print(len(aNacionalidade))
+#print(aEscolaridade)
+#print(len(aEscolaridade))
+#print(aSexo)
+#print (len(aSexo))
