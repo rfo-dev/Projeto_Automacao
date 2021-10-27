@@ -1,9 +1,11 @@
+from math import asin
 import os
 from typing import Tuple
 import xlsxwriter 
 import fitz
 import linecache
 import PySimpleGUI as sg
+import time
 
 arquivoTXT = []
 busca = "Nome:"
@@ -24,6 +26,20 @@ buscaNacionalidade = "Nacionalidade:"
 buscaEscolaridade = "Grau Instrução:"
 buscaSexo = "Nacionalidade:"
 buscaEmpresa = "Empresa:"
+buscaEndereco = "Endereço:"
+buscaBairro = "Bairro"
+buscaMunicipio = "Município:"
+buscaLocalNascimento = "Dt.Nasc."
+buscaUF = "UF:"
+buscaCEP = "CEP:"
+buscaSindicato = "Sindicato"
+aSindicato = []
+aLocalNascimento = []
+aMunicipio= []
+aUF = []
+aCEP = []
+aBairro = []
+aEndereco = []
 aEmpresa = []
 aNome = []
 aCodigo = []
@@ -47,6 +63,7 @@ totalArquivos = []
 row = 0
 column = 0
 
+t_ini = time.time()
 for file in os.listdir("./Biancalana/Ficha de Registro"):
     if file.endswith(".txt"):
         caminhoTXT = (os.path.join("./Biancalana/Ficha de Registro", file))
@@ -77,6 +94,13 @@ for i in range(len(arquivoTXT)):
         posicaoEscolaridade = juntos.find(buscaEscolaridade) 
         posicaoSexo = juntos.find(buscaSexo) 
         posicaoEmpresa = juntos.find(buscaEmpresa)
+        posicaoEndereco = juntos.find(buscaEndereco)
+        posicaoBairro= juntos.find(buscaBairro)
+        posicaoMunicipio = juntos.find(buscaMunicipio)
+        posicaoUF = juntos.find(buscaUF)
+        posicaoCEP = juntos.find(buscaCEP)
+        posicaoLocalNascimento = juntos.find(buscaLocalNascimento)
+        posicaoSindicato = juntos.find(buscaSindicato)
         
         if (posicao != -1):
             nome = juntos[posicao+5:45]
@@ -204,6 +228,56 @@ for i in range(len(arquivoTXT)):
                 aSexo.append(sexo)
             else:    
                 aSexo.append(sexo)
+                
+        if (posicaoEndereco != -1):
+            endereco = juntos[posicaoEndereco+9:posicaoEndereco+70]
+            aEndereco.append(endereco) 
+        
+        if (posicaoBairro != -1):
+            bairro = juntos[posicaoBairro+6:30]
+            aBairro.append(bairro)
+             
+        if (posicaoMunicipio != -1):
+            municipio = juntos[posicaoMunicipio+10:posicaoMunicipio+25]
+            municipio = municipio.replace(" UF: S"," ")
+            municipio = municipio.replace("SP CE"," ")
+            municipio = municipio.replace("UF: CEP: DDD"," ")
+            municipio = municipio.replace("P CE","")
+            municipio = municipio.replace(":" , "")
+            municipio = municipio.replace("UF", "")
+            municipio = municipio.replace("P ","")
+            if municipio != "   ":
+                aMunicipio.append(municipio)
+            else:
+                aMunicipio.append("VAZIO")     
+            
+        if (posicaoUF != -1):
+            UF = juntos[posicaoUF+4:posicaoUF+6]
+            aUF.append(UF)   
+            
+        if (posicaoCEP != -1):
+            CEP = juntos[posicaoCEP+4:posicaoCEP+13]
+            CEP = CEP.replace(" DDD: Fon", "VAZIO")
+            aCEP.append(CEP)
+            
+        if (posicaoLocalNascimento != -1):
+            localNascimento = juntos[posicaoLocalNascimento+30:posicaoLocalNascimento+43]
+            localNascimento = localNascimento.replace("Nacional", "")
+            localNascimento = localNascimento.replace("Naciona", "")
+            localNascimento = localNascimento.replace("Nacio", "")
+            localNascimento = localNascimento.replace("Naci", "")
+            localNascimento = localNascimento.replace("Nac", "")
+            localNascimento = localNascimento.replace("Na", "")
+            localNascimento = localNascimento.replace("onalidade: BR", "VAZIO")
+            localNascimento = localNascimento.replace("onalidade: OU", "VAZIO")
+            localNascimento = localNascimento.replace("oalidade: Se", "VAZIO")
+            localNascimento = localNascimento.replace(": Sexo: MASCU", "VAZIO")
+            localNascimento = localNascimento.replace("n", "")
+            aLocalNascimento.append(localNascimento)     
+            
+        if (posicaoSindicato != -1):
+            sindicato = juntos[posicaoSindicato+14:posicaoSindicato+100]
+            aSindicato.append(sindicato)                      
                          
     x = 0        
     while x < cont:
@@ -234,6 +308,13 @@ for i in range(len(aNome)):
     worksheet.write(row + 1, column + 15,aNacionalidade[i]) 
     worksheet.write(row + 1, column + 16,aEscolaridade[i]) 
     worksheet.write(row + 1, column + 17,aSexo[i]) 
+    worksheet.write(row + 1, column + 18,aEndereco[i]) 
+    worksheet.write(row + 1, column + 19,aBairro[i]) 
+    worksheet.write(row + 1, column + 20,aMunicipio[i]) 
+    worksheet.write(row + 1, column + 21,aUF[i]) 
+    worksheet.write(row + 1, column + 22,aCEP[i]) 
+    worksheet.write(row + 1, column + 23,aLocalNascimento[i]) 
+    worksheet.write(row + 1, column + 24,aSindicato[i]) 
     row += 1
 worksheet.write(0, 0, "Empresa")        
 worksheet.write(0, 1, "Nome") 
@@ -253,7 +334,16 @@ worksheet.write(0, 14, "CTPS")
 worksheet.write(0, 15, "Nacionalidade")  
 worksheet.write(0, 16, "Escolaridade")  
 worksheet.write(0, 17, "Sexo")  
-workbook.close()     
+worksheet.write(0, 18, "Endereço") 
+worksheet.write(0, 19, "Bairro")  
+worksheet.write(0, 20, "Municipio")
+worksheet.write(0, 21, "UF")    
+worksheet.write(0, 22, "CEP")  
+worksheet.write(0, 23, "Local de Nascimento") 
+worksheet.write(0, 24, "Sindicato") 
+workbook.close() 
+
+print("Executado em: " , time.time()-t_ini)    
 
 #print (len(aAdmissao))
 #print (aAdmissao)
@@ -284,3 +374,17 @@ workbook.close()
 #print(len(aEscolaridade))
 #print(aSexo)
 #print (len(aSexo))
+#print(aEndereco)
+#print (len(aEndereco))
+#print (aBairro)
+#print(len(aBairro))
+#print(aMunicipio)
+#print (len(aMunicipio))
+#print (aCEP)
+#print(len(aCEP))
+#print(aUF)
+#print(len(aUF))
+print (aLocalNascimento)
+#print(len(aLocalNascimento))
+#print(aSindicato)
+#print (len(aSindicato))
