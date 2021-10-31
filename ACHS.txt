@@ -774,7 +774,7 @@
 
 
 ------------------------------------------------------------------------
-
+
 
 
 
@@ -2163,7 +2163,7 @@
           DEPENDENTES
 
         Nome                                               Nascimento    Sexo        Parentesco              Situação 
-
+	
         Guaraci Dias                                       Masculino Pai                Não Dependente IRRF 
         Antonia Alves do Nascimento Dias                   Feminino  Mãe                Não Dependente IRRF 
         Brayan Uriel do Nascimento Silva        16/11/2014 Masculino Filho(a)           Normal              

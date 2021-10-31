@@ -7,6 +7,7 @@ import linecache
 import PySimpleGUI as sg
 import time
 
+pai = ""
 arquivoTXT = []
 busca = "Nome:"
 buscaCod = "Código:"
@@ -33,6 +34,12 @@ buscaLocalNascimento = "Dt.Nasc."
 buscaUF = "UF:"
 buscaCEP = "CEP:"
 buscaSindicato = "Sindicato"
+buscaPai = "Pai "
+buscanPais = "Nome "
+buscaMae = "Mãe "
+aMae = []
+anPais = []
+aPai = []
 aSindicato = []
 aLocalNascimento = []
 aMunicipio= []
@@ -60,6 +67,7 @@ aEscolaridade = []
 aSexo = []
 aEmpresaLista = []
 totalArquivos = []
+
 row = 0
 column = 0
 
@@ -75,7 +83,7 @@ for i in range(len(arquivoTXT)):
     for linha in arquivo:
         valores = linha.split()
         juntos=  ' '.join(valores)
-        #descobrir pocição das palavras
+        #descobrir posição das palavras
         posicao=juntos.find(busca)
         posicaoCod=juntos.find(buscaCod)
         posicaoRegime=juntos.find(buscaRegime)
@@ -101,6 +109,9 @@ for i in range(len(arquivoTXT)):
         posicaoCEP = juntos.find(buscaCEP)
         posicaoLocalNascimento = juntos.find(buscaLocalNascimento)
         posicaoSindicato = juntos.find(buscaSindicato)
+        posicaoPai = juntos.find(buscaPai)
+        posicaonPais = juntos.find(buscanPais)
+        posicaoMae = juntos.find(buscaMae)
         
         if (posicao != -1):
             nome = juntos[posicao+5:45]
@@ -277,7 +288,27 @@ for i in range(len(arquivoTXT)):
             
         if (posicaoSindicato != -1):
             sindicato = juntos[posicaoSindicato+14:posicaoSindicato+100]
-            aSindicato.append(sindicato)                      
+            aSindicato.append(sindicato)   
+        
+        if (posicaonPais) != -1 :
+            aPai.append("VAZIO")
+            aMae.append("VAZIO")
+         
+        if (posicaoPai) != -1 :
+            pai = linha[0:40]
+            indice = len(aPai)-1  
+            if (aPai[indice]) == "VAZIO" :
+                pai = pai.strip()
+                aPai.pop()
+                aPai.append(pai)
+                
+        if (posicaoMae) != -1 :
+            mae = linha[0:45]
+            indice2 = len(aMae)-1  
+            if (aMae[indice2]) == "VAZIO" :
+                mae = mae.strip()
+                aMae.pop()
+                aMae.append(mae)        
                          
     x = 0        
     while x < cont:
@@ -315,6 +346,9 @@ for i in range(len(aNome)):
     worksheet.write(row + 1, column + 22,aCEP[i]) 
     worksheet.write(row + 1, column + 23,aLocalNascimento[i]) 
     worksheet.write(row + 1, column + 24,aSindicato[i]) 
+    worksheet.write(row + 1, column + 25,aPai[i]) 
+    worksheet.write(row + 1, column + 26,aMae[i]) 
+    
     row += 1
 worksheet.write(0, 0, "Empresa")        
 worksheet.write(0, 1, "Nome") 
@@ -341,6 +375,8 @@ worksheet.write(0, 21, "UF")
 worksheet.write(0, 22, "CEP")  
 worksheet.write(0, 23, "Local de Nascimento") 
 worksheet.write(0, 24, "Sindicato") 
+worksheet.write(0, 25, "Filiação - Pai") 
+worksheet.write(0, 26, "Filiação - Mãe") 
 workbook.close() 
 
 print("Executado em: " , time.time()-t_ini)    
@@ -384,7 +420,12 @@ print("Executado em: " , time.time()-t_ini)
 #print(len(aCEP))
 #print(aUF)
 #print(len(aUF))
-print (aLocalNascimento)
+#print (aLocalNascimento)
 #print(len(aLocalNascimento))
 #print(aSindicato)
 #print (len(aSindicato))
+#print (arquivo) 
+#print(aPai)
+#print(len(aPai))
+#print(aMae)
+#print(len(aMae))
