@@ -1,3 +1,0 @@
-Teste de dados em python
-leitura de arquivos em python
-

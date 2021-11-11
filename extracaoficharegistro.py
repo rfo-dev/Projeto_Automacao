@@ -72,9 +72,9 @@ row = 0
 column = 0
 
 t_ini = time.time()
-for file in os.listdir("./Biancalana/Ficha de Registro"):
+for file in os.listdir("./Origem_dados/Biancalana/Ficha de Registro"):
     if file.endswith(".txt"):
-        caminhoTXT = (os.path.join("./Biancalana/Ficha de Registro", file))
+        caminhoTXT = (os.path.join("./Origem_Dados/Biancalana/Ficha de Registro", file))
         arquivoTXT.append(caminhoTXT)
         
 for i in range(len(arquivoTXT)):
