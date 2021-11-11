@@ -1,3 +1,8 @@
+#################################################################################
+# Programa de cadastro automatico utilizando dados de origem de uma planilha.   #
+# Clica automaticamente nos campos.                                             #
+#################################################################################
+
 import pyautogui
 import time
 import pandas as pd
